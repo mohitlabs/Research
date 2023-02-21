@@ -2,15 +2,16 @@
 > Author: Mohit Singh  
 > College: College of Computing Sciences & Information Technology  
 > University: Teerthanker Mahaveer University Moradabad  
+> DOI:
 
-## 1. Abstract
+## Abstract
 
-## 2. Keywords
+## Keywords
 > Neural Networks, Sentimental Analysis, Astrology, Synthesis, Emotional Intelligence, Affective Computing, Subconsious, Cognitive Science, Philosophy, Psychology, Modalities, Galvanic Resistance, Bioinformatics
 
-## 3. Introduction
+## 1. Introduction
 
-## 4. Literature Review
+## 2. Literature Review
 
 | S.No | Author | Publisher | Year | Paper |
 |:----:|:------:|:---------:|:----:|:-----:|
@@ -55,13 +56,13 @@
 |  39  |  |  |  | []() |
 |  40  |  |  |  | []() |
 
-## 5. Methedology
+## 3. Methedology
 
-## 6. Implementation
+## 4. Implementation
 
-## 7. Conclusion
+## 5. Conclusion
 
-## 8. References
+## References
 - https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality
 - https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions
 - 
