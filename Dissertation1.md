@@ -19,8 +19,8 @@
 |  02  | Paul Clements | Goldsmiths College, University of London, London, UK | 2022 | [Astrology, modernity and the project of self-identity](https://www.tandfonline.com/doi/epdf/10.1080/14755610.2022.2093234?needAccess=true&role=button) |
 |  03  | Nhan Cach Dang, María N. Moreno-García & Fernando De la Prieta | PapersWithCode | 2020 | [Sentiment Analysis Based on Deep Learning: A Comparative Study](https://arxiv.org/pdf/2006.03541v1.pdf) |
 |  04  | Guangyi Zhang, Vandad Davoodnia, & Ali Etemad, Senior Member, IEEE | PapersWithCode | 2022 | [PARSE: Pairwise Alignment of Representations in Semi-Supervised EEG Learning for Emotion Recognition](https://arxiv.org/pdf/2202.05400v2.pdf) |
-|  05  |  |  |  | []() |
-|  06  |  |  |  | []() |
+|  05  | Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu & Bing Liu | PapersWithCode | 2017 | [Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory](https://arxiv.org/pdf/1704.01074v4.pdf) |
+|  06  | Hye-Rin Kim, Yeong-Seok Kim, Seon Joo Kim & In-Kwon Lee | PapersWithCode | 2017 | [Building Emotional Machines: Recognizing Image Emotions through Deep Neural Networks](https://arxiv.org/abs/1705.07543v2) |
 |  07  |  |  |  | []() |
 |  08  |  |  |  | []() |
 |  09  |  |  |  | []() |
