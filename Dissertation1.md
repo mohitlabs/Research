@@ -14,7 +14,7 @@
 
 | S.No | Author | Publisher | Year | Paper |
 |:----:|:------:|:---------:|:----:|:-----:|
-|  01  |  |  |  | [A Concise History of Hindu Astrology and Indian Spirituality](https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality) |
+|  01  | Paulo Martins | Scholars Journal of Arts, Humanities and Social Sciences | 2023 | [A Concise History of Hindu Astrology and Indian Spirituality](https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality) |
 |  02  |  |  |  | []() |
 |  03  |  |  |  | []() |
 |  04  |  |  |  | []() |
