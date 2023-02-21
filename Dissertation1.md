@@ -21,7 +21,7 @@
 |  04  | Guangyi Zhang, Vandad Davoodnia, & Ali Etemad, Senior Member, IEEE | PapersWithCode | 2022 | [PARSE: Pairwise Alignment of Representations in Semi-Supervised EEG Learning for Emotion Recognition](https://arxiv.org/pdf/2202.05400v2.pdf) |
 |  05  | Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu & Bing Liu | PapersWithCode | 2017 | [Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory](https://arxiv.org/pdf/1704.01074v4.pdf) |
 |  06  | Hye-Rin Kim, Yeong-Seok Kim, Seon Joo Kim & In-Kwon Lee | PapersWithCode | 2017 | [Building Emotional Machines: Recognizing Image Emotions through Deep Neural Networks](https://arxiv.org/abs/1705.07543v2) |
-|  07  |  |  |  | []() |
+|  07  | Yu-Hung Tsai, Sheng-Kuang Wu, Shyr-Shen Yu & Meng-Hsiun Tsai | MDPI Journal Mathematics | 2023 | [A Novel Hybrid Deep Neural Network for Predicting Athlete Performance Using Dynamic Brain Waves](https://www.researchgate.net/publication/368437916_A_Novel_Hybrid_Deep_Neural_Network_for_Predicting_Athlete_Performance_Using_Dynamic_Brain_Waves) |
 |  08  |  |  |  | []() |
 |  09  |  |  |  | []() |
 |  10  |  |  |  | []() |
