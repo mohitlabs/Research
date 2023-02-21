@@ -3,14 +3,14 @@
 > College: College of Computing Sciences & Information Technology  
 > University: Teerthanker Mahaveer University Moradabad  
 
-## Abstract
+## 1. Abstract
 
-## Keywords
+## 2. Keywords
 > Neural Networks, Sentimental Analysis, Astrology, Synthesis, Emotional Intelligence, Affective Computing, Subconsious, Cognitive Science, Philosophy, Psychology, Modalities, Galvanic Resistance, Bioinformatics
 
-## Introduction
+## 3. Introduction
 
-## Literature Review
+## 4. Literature Review
 
 | S.No | Author | Publisher | Year | Paper |
 |:----:|:------:|:---------:|:----:|:-----:|
@@ -55,13 +55,13 @@
 |  39  |  |  |  | []() |
 |  40  |  |  |  | []() |
 
-## Methedology
+## 5. Methedology
 
-## Implementation
+## 6. Implementation
 
-## Conclusion
+## 7. Conclusion
 
-## References
+## 8. References
 - https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality
 - https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions
 - 
