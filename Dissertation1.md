@@ -1,42 +1,27 @@
 # Astrology based Emotional Intelligence Synthesis in Machines
+> Author: Mohit Singh  
+> College: College of Computing Sciences & Information Technology  
+> University: Teerthanker Mahaveer University Moradabad  
 
-### [Paper1]()
-### [Paper2]()
-### [Paper3]()
-### [Paper4]()
-### [Paper5]()
-### [Paper6]()
-### [Paper7]()
-### [Paper8]()
-### [Paper9]()
-### [Paper10]()
-### [Paper11]()
-### [Paper12]()
-### [Paper13]()
-### [Paper14]()
-### [Paper15]()
-### [Paper16]()
-### [Paper17]()
-### [Paper18]()
-### [Paper19]()
-### [Paper20]()
-### [Paper21]()
-### [Paper22]()
-### [Paper23]()
-### [Paper24]()
-### [Paper25]()
-### [Paper26]()
-### [Paper27]()
-### [Paper28]()
-### [Paper29]()
-### [Paper30]()
-### [Paper31: Why Truly Intelligent Machines Need Emotions(2015)](https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions)
-### [Paper32]()
-### [Paper33]()
-### [Paper34]()
-### [Paper35]()
-### [Paper36]()
-### [Paper37]()
-### [Paper38]()
-### [Paper39]()
-### [Paper40]()
+## Abstract
+
+## Keywords
+> Neural Networks, Sentimental Analysis, Astrology, Synthesis, Emotional Intelligence, Affective Computing, Subconsious, Cognitive Science, Philosophy, Psychology, Modalities, Galvanic Resistance, Bioinformatics
+
+## Introduction
+
+## Literature Review
+
+| S.No | Author Name | Year | Paper |
+|:----:|:-----------:|:----:|:-----:|
+|  01  |  | 2015 | [Why Truly Intelligent Machines Need Emotions](https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions) |
+|  31  |  | 2015 | [Why Truly Intelligent Machines Need Emotions](https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions) |
+
+## Methedology
+
+## Implementation
+
+## Conclusion
+
+## References
+- 
