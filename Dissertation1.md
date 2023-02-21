@@ -1,4 +1,4 @@
-# Astrology based Emotional Intelligence Synthesis in Machines
+# Synthesis of Emotional Intelligence in Machines based on Vedic Astrology
 > Author: Mohit Singh  
 > College: College of Computing Sciences & Information Technology  
 > University: Teerthanker Mahaveer University Moradabad  
@@ -7,7 +7,7 @@
 ## Abstract
 
 ## Keywords
-> Neural Networks, Sentimental Analysis, Astrology, Synthesis, Emotional Intelligence, Affective Computing, Subconsious, Cognitive Science, Philosophy, Psychology, Modalities, Galvanic Resistance, Bioinformatics
+> Neural Networks, Sentimental Analysis, Vedic Astrology, Synthesis, Emotional Intelligence, Affective Computing, Subconsious, Cognitive Science, Philosophy, Psychology, Modalities, Galvanic Resistance, Bioinformatics
 
 ## 1. Introduction
 
