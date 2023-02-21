@@ -23,8 +23,8 @@
 |  06  | Hye-Rin Kim, Yeong-Seok Kim, Seon Joo Kim & In-Kwon Lee | PapersWithCode | 2017 | [Building Emotional Machines: Recognizing Image Emotions through Deep Neural Networks](https://arxiv.org/abs/1705.07543v2) |
 |  07  | Yu-Hung Tsai, Sheng-Kuang Wu, Shyr-Shen Yu & Meng-Hsiun Tsai | MDPI Journal Mathematics | 2023 | [A Novel Hybrid Deep Neural Network for Predicting Athlete Performance Using Dynamic Brain Waves](https://www.researchgate.net/publication/368437916_A_Novel_Hybrid_Deep_Neural_Network_for_Predicting_Athlete_Performance_Using_Dynamic_Brain_Waves) |
 |  08  | Yossi Buskila, Alba Bellot-Saez & John W. Morley | Research Gate | 2019 | [Generating Brain Waves, the Power of Astrocytes](https://www.researchgate.net/publication/336657756_Generating_Brain_Waves_the_Power_of_Astrocytes) |
-|  09  | Noushin Hajarolasvadi, Miguel Arjona Ramírez & Hasan Demirel | arxiv | 2020 | [Generative Adversarial Networks in Human Emotion Synthesis:A Review]() |
-|  10  |  |  |  | []() |
+|  09  | Noushin Hajarolasvadi, Miguel Arjona Ramírez & Hasan Demirel | arxiv | 2020 | [Generative Adversarial Networks in Human Emotion Synthesis:A Review](https://arxiv.org/abs/2010.15075) |
+|  10  | Partha Sarathi Paul | SpringerLink | 2021 | [Application of Big Data and Machine Learning for Astrological Predictions](https://link.springer.com/chapter/10.1007/978-981-16-2543-5_1) |
 |  11  |  |  |  | []() |
 |  12  |  |  |  | []() |
 |  13  |  |  |  | []() |
