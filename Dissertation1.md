@@ -14,7 +14,7 @@
 
 | S.No | Author | Publisher | Year | Paper |
 |:----:|:------:|:---------:|:----:|:-----:|
-|  01  |  |  |  | []() |
+|  01  |  |  |  | [A Concise History of Hindu Astrology and Indian Spirituality](https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality) |
 |  02  |  |  |  | []() |
 |  03  |  |  |  | []() |
 |  04  |  |  |  | []() |
@@ -62,5 +62,6 @@
 ## Conclusion
 
 ## References
+- https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality
 - https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions
 - 
