@@ -62,4 +62,5 @@
 ## Conclusion
 
 ## References
+- https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions
 - 
