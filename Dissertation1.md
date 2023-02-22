@@ -1,4 +1,4 @@
-# Artificial Emotional Intelligence & Sentiment Synthesis in Machines based on Vedic Astrology
+# Emotionally Intelligent Machines(EIM's) & Sentiment Synthesis based on Vedic Astrology
 > Author: Mohit Singh  
 > College: College of Computing Sciences & Information Technology  
 > University: Teerthanker Mahaveer University Moradabad  
@@ -65,6 +65,6 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 
 ## References
 - [BrihatParasharHoraShastraGaneshDattPathak](https://archive.org/details/BrihatParasharHoraShastraGaneshDattPathak)
-- https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality
-- https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions
-- 
+- [A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality](https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality)
+- [Astrology](https://en.wikipedia.org/wiki/Astrology)
+- [Neural Oscillations(Brain Waves)](https://en.wikipedia.org/wiki/Neural_oscillation)
