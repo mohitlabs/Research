@@ -27,9 +27,9 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  09  | Noushin Hajarolasvadi, Miguel Arjona Ramírez & Hasan Demirel | arxiv | 2020 | [Generative Adversarial Networks in Human Emotion Synthesis:A Review](https://arxiv.org/abs/2010.15075) |
 |  10  | Partha Sarathi Paul | SpringerLink | 2021 | [Application of Big Data and Machine Learning for Astrological Predictions](https://link.springer.com/chapter/10.1007/978-981-16-2543-5_1) |
 |  11  | Vanderson Esperidião-Antonio, Marilia Majeski-Colombo, Diana Toledo-Monteverde, Glaciele Moraes-Martins, Juliana José Fernandes, Marjorie Bauchiglioni de Assis, Stefânia Montenegro & Rodrigo Siqueira-Batista | International Review of Psychiatry | 2017 | [Neurobiology of emotions: an update](https://www.tandfonline.com/doi/full/10.1080/09540261.2017.1285983) |
-|  12  | Sahiti S. Magapu & Sashank Vaddiparty |  | 2019 | [The Study of Emotional Intelligence in Artificial Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&url=https://ijisrt.com/wp-content/uploads/2019/02/IJISRT19JA351.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECBEQAQ&usg=AOvVaw14LIEFBptEDmRJ-LSdXkpN) |
-|  13  | Himanshu Kumar & A. Martin | Science Direct | 2016 | [Artificial Emotional Intelligence: Conventional and deep learning approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417422016931) |
-|  14  | Arvind Kumar, Rajiv Singh & Ram Chandra |  | 2016 | [Emotional Intelligence for Artificial Intelligence: A Review](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ijsr.net/archive/v7i8/ART2019481.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECDgQAQ&usg=AOvVaw1L1baoZdnjX-cwpxbNbCde) |
+|  12  | Sahiti S. Magapu & Sashank Vaddiparty | International Journal of Innovative Science and Research Technology | 2019 | [The Study of Emotional Intelligence in Artificial Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&url=https://ijisrt.com/wp-content/uploads/2019/02/IJISRT19JA351.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECBEQAQ&usg=AOvVaw14LIEFBptEDmRJ-LSdXkpN) |
+|  13  |  |  |  | []() |
+|  14  |  |  |  | []() |
 |  15  |  |  |  | []() |
 |  16  |  |  |  | []() |
 |  17  |  |  |  | []() |
@@ -44,8 +44,8 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  26  |  |  |  | []() |
 |  27  |  |  |  | []() |
 |  28  |  |  |  | []() |
-|  29  |  |  |  | []() |
-|  30  |  |  |  | []() |
+|  29  | Himanshu Kumar & A. Martin | Science Direct | 2016 | [Artificial Emotional Intelligence: Conventional and deep learning approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417422016931) |
+|  30  | Arvind Kumar, Rajiv Singh & Ram Chandra | International Journal of Science and Research (IJSR) | 2016 | [Emotional Intelligence for Artificial Intelligence: A Review](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ijsr.net/archive/v7i8/ART2019481.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECDgQAQ&usg=AOvVaw1L1baoZdnjX-cwpxbNbCde) |
 |  31  | P. Lee & D. Gurnkl | International Journal of Artificial Intelligence | 2015 | [Why Truly Intelligent Machines Need Emotions](https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions) |
 |  32  | Irene Daum & Hans Markowitsch |  | 2009 | [Neurobiological Basis of Emotions](https://www.researchgate.net/publication/226394023_Neurobiological_Basis_of_Emotions) |
 |  33  | Too Many | NATIONAL SCIENTIFIC COUNCIL ON THE DEVELOPING CHILD | 2004 | [Children’s Emotional Development Is Built into the Architecture of Their Brains](https://developingchild.harvard.edu/wp-content/uploads/2004/04/Childrens-Emotional-Development-Is-Built-into-the-Architecture-of-Their-Brains.pdf) |
