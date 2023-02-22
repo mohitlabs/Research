@@ -26,7 +26,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  08  | Yossi Buskila, Alba Bellot-Saez & John W. Morley | Research Gate | 2019 | [Generating Brain Waves, the Power of Astrocytes](https://www.researchgate.net/publication/336657756_Generating_Brain_Waves_the_Power_of_Astrocytes) |
 |  09  | Noushin Hajarolasvadi, Miguel Arjona Ramírez & Hasan Demirel | arxiv | 2020 | [Generative Adversarial Networks in Human Emotion Synthesis:A Review](https://arxiv.org/abs/2010.15075) |
 |  10  | Partha Sarathi Paul | SpringerLink | 2021 | [Application of Big Data and Machine Learning for Astrological Predictions](https://link.springer.com/chapter/10.1007/978-981-16-2543-5_1) |
-|  11  |  |  |  | []() |
+|  11  | Vanderson Esperidião-Antonio, Marilia Majeski-Colombo, Diana Toledo-Monteverde, Glaciele Moraes-Martins, Juliana José Fernandes, Marjorie Bauchiglioni de Assis, Stefânia Montenegro & Rodrigo Siqueira-Batista | International Review of Psychiatry | 2017 | [Neurobiology of emotions: an update](https://www.tandfonline.com/doi/full/10.1080/09540261.2017.1285983) |
 |  12  |  |  |  | []() |
 |  13  |  |  |  | []() |
 |  14  |  |  |  | []() |
