@@ -5,6 +5,7 @@
 > DOI:
 
 ## Abstract
+This paper describes that how Emotionally Intelligent Machines(EIM's) can be developed by using the concept of Ancient Vedic Astrology.
 
 ## Keywords
 > Neural Networks, Sentimental Analysis, Vedic Astrology, Synthesis, Emotional Intelligence, Affective Computing, Subconsious, Cognitive Science, Philosophy, Psychology, Modalities, Galvanic Resistance, Bioinformatics
@@ -63,6 +64,7 @@
 ## 5. Conclusion
 
 ## References
+- [BrihatParasharHoraShastraGaneshDattPathak](https://archive.org/details/BrihatParasharHoraShastraGaneshDattPathak)
 - https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality
 - https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions
 - 
