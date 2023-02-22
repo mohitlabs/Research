@@ -64,7 +64,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 ## 5. Conclusion
 
 ## References
-- [BrihatParasharHoraShastraGaneshDattPathak](https://archive.org/details/BrihatParasharHoraShastraGaneshDattPathak)
+- [Brihat Parashar Hora Shastra by Pt. Ganesh Datt Pathak](https://archive.org/details/BrihatParasharHoraShastraGaneshDattPathak)
 - [A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality](https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality)
 - [Astrology](https://en.wikipedia.org/wiki/Astrology)
 - [Neural Oscillations(Brain Waves)](https://en.wikipedia.org/wiki/Neural_oscillation)
