@@ -70,3 +70,4 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 - [Consciousness](https://en.wikipedia.org/wiki/Consciousness)
 - [Subconscious](https://en.wikipedia.org/wiki/Subconscious)
 - [Neural Oscillations(Brain Waves)](https://en.wikipedia.org/wiki/Neural_oscillation)
+- [Understanding the neuroscience behind emotional intelligence](https://www.forbes.com/sites/forbescoachescouncil/2020/04/22/understanding-the-neuroscience-behind-emotional-intelligence/)
