@@ -1,4 +1,4 @@
-# Emotional Intelligence & Sentiment Synthesis in Machines based on Vedic Astrology
+# Artificial Emotional Intelligence & Sentiment Synthesis in Machines based on Vedic Astrology
 > Author: Mohit Singh  
 > College: College of Computing Sciences & Information Technology  
 > University: Teerthanker Mahaveer University Moradabad  
