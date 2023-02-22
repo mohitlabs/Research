@@ -44,8 +44,8 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  26  |  |  |  | []() |
 |  27  |  |  |  | []() |
 |  28  |  |  |  | []() |
-|  29  | Himanshu Kumar & A. Martin | Science Direct | 2016 | [Artificial Emotional Intelligence: Conventional and deep learning approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417422016931) |
-|  30  | Arvind Kumar, Rajiv Singh & Ram Chandra | International Journal of Science and Research (IJSR) | 2016 | [Emotional Intelligence for Artificial Intelligence: A Review](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ijsr.net/archive/v7i8/ART2019481.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECDgQAQ&usg=AOvVaw1L1baoZdnjX-cwpxbNbCde) |
+|  29  | Arvind Kumar, Rajiv Singh & Ram Chandra | International Journal of Science and Research (IJSR) | 2017 | [Emotional Intelligence for Artificial Intelligence: A Review](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ijsr.net/archive/v7i8/ART2019481.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECDgQAQ&usg=AOvVaw1L1baoZdnjX-cwpxbNbCde) |
+|  30  | Himanshu Kumar & A. Martin | Science Direct | 2016 | [Artificial Emotional Intelligence: Conventional and deep learning approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417422016931) |
 |  31  | P. Lee & D. Gurnkl | International Journal of Artificial Intelligence | 2015 | [Why Truly Intelligent Machines Need Emotions](https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions) |
 |  32  | Irene Daum & Hans Markowitsch |  | 2009 | [Neurobiological Basis of Emotions](https://www.researchgate.net/publication/226394023_Neurobiological_Basis_of_Emotions) |
 |  33  | Too Many | NATIONAL SCIENTIFIC COUNCIL ON THE DEVELOPING CHILD | 2004 | [Children’s Emotional Development Is Built into the Architecture of Their Brains](https://developingchild.harvard.edu/wp-content/uploads/2004/04/Childrens-Emotional-Development-Is-Built-into-the-Architecture-of-Their-Brains.pdf) |
