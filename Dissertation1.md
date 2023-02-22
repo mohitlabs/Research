@@ -29,7 +29,8 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  11  | Vanderson Esperidião-Antonio, Marilia Majeski-Colombo, Diana Toledo-Monteverde, Glaciele Moraes-Martins, Juliana José Fernandes, Marjorie Bauchiglioni de Assis, Stefânia Montenegro & Rodrigo Siqueira-Batista | International Review of Psychiatry | 2017 | [Neurobiology of emotions: an update](https://www.tandfonline.com/doi/full/10.1080/09540261.2017.1285983) |
 |  12  | Sahiti S. Magapu & Sashank Vaddiparty |  | 2019 | [The Study of Emotional Intelligence in Artificial Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&url=https://ijisrt.com/wp-content/uploads/2019/02/IJISRT19JA351.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECBEQAQ&usg=AOvVaw14LIEFBptEDmRJ-LSdXkpN) |
 |  13  | Himanshu Kumar & A. Martin | Science Direct | 2016 | [Artificial Emotional Intelligence: Conventional and deep learning approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417422016931) |
-|  14  |  |  |  | []() |
+|  14  | Arvind Kumar, Rajiv Singh & Ram Chandra |  | 2016 | [Emotional Intelligence for Artificial Intelligence: A 
+Review](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ijsr.net/archive/v7i8/ART2019481.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECDgQAQ&usg=AOvVaw1L1baoZdnjX-cwpxbNbCde) |
 |  15  |  |  |  | []() |
 |  16  |  |  |  | []() |
 |  17  |  |  |  | []() |
