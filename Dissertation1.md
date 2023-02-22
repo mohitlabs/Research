@@ -47,7 +47,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  29  |  |  |  | []() |
 |  30  |  |  |  | []() |
 |  31  | P. Lee & D. Gurnkl | International Journal of Artificial Intelligence | 2015 | [Why Truly Intelligent Machines Need Emotions](https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions) |
-|  32  |  |  |  | []() |
+|  32  | Irene Daum & Hans Markowitsch |  | 2009 | [Neurobiological Basis of Emotions](https://www.researchgate.net/publication/226394023_Neurobiological_Basis_of_Emotions) |
 |  33  |  |  |  | []() |
 |  34  |  |  |  | []() |
 |  35  |  |  |  | []() |
