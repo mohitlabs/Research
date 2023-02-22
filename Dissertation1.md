@@ -49,7 +49,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  31  | P. Lee & D. Gurnkl | International Journal of Artificial Intelligence | 2015 | [Why Truly Intelligent Machines Need Emotions](https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions) |
 |  32  | Irene Daum & Hans Markowitsch |  | 2009 | [Neurobiological Basis of Emotions](https://www.researchgate.net/publication/226394023_Neurobiological_Basis_of_Emotions) |
 |  33  | Too Many | NATIONAL SCIENTIFIC COUNCIL ON THE DEVELOPING CHILD | 2004 | [Children’s Emotional Development Is Built into the Architecture of Their Brains](https://developingchild.harvard.edu/wp-content/uploads/2004/04/Childrens-Emotional-Development-Is-Built-into-the-Architecture-of-Their-Brains.pdf) |
-|  34  |  |  |  | []() |
+|  34  | Rosalind W Picard | Research Gate | 2004 | [Toward Machines With Emotional Intelligence](https://www.researchgate.net/publication/221645343_Toward_Machines_With_Emotional_Intelligence) |
 |  35  |  |  |  | []() |
 |  36  |  |  |  | []() |
 |  37  |  |  |  | []() |
