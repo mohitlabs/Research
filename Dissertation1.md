@@ -69,7 +69,7 @@ flowchart LR;
   ncp(Network Current Personality)
   os(Output Sentiment)
   
-  subgraph Emotionally Intelligent Unit(EIU)
+  subgraph Emotionally Intelligent Unit EIU
     input-->sa
     subgraph Sentiment Synthesis
       pp-->sm
