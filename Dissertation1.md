@@ -36,7 +36,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  18  | Luxiang Zhang & Jialing Yuan |  | 2021 | [The Effect of Subconscious on Life and Ethical Behavior](https://www.atlantis-press.com/article/125966956.pdf) |
 |  19  | Prem Kamble |  | 2021 | [What is Subconscious Mind? How Does it Impact our Behaviour?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3806525) |
 |  20  | Ralf C. Staudemeyer & Eric Rothstein Morris |  | 2019 | [Understanding LSTM -- a tutorial into Long Short-Term Memory Recurrent Neural Networks](https://arxiv.org/pdf/1909.09586.pdf) |
-|  21  |  |  |  | []() |
+|  21  | Zhaoyang Niu, Guoqiang Zhong, Guohua Yue, Li-Na Wang, Hui Yu, Xiao Ling & Junyu Dong |  | 2023 | [Recurrent attention unit: A new gated recurrent unit for long-term memory of important parts in sequential data](https://www.sciencedirect.com/science/article/abs/pii/S0925231222013339) |
 |  22  |  |  |  | []() |
 |  23  |  |  |  | []() |
 |  24  |  |  |  | []() |
