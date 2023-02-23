@@ -41,7 +41,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  23  | Tong Zhao, Yiqian Zhu, Hailiang Tang, Rong Xie, Jianhong Zhu, & John H. Zhang |  | 2019 | [Consciousness: New Concepts and Neural Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6629860/) |
 |  24  | Eugene Piletsky |  | 2019 | [Consciousness and Unconsciousness of Artificial Intelligence](https://www.researchgate.net/publication/332215462_Consciousness_and_Unconsciousness_of_Artificial_Intelligence) |
 |  25  | Ian Osband, Yotam Doron, Matteo Hessel, John Aslanides, Eren Sezener, Andre Saraiva, Katrina McKinney, Tor Lattimore, Csaba Szepesvari, Satinder Singh, Benjamin Van Roy, Richard Sutton, David Silver & Hado Van Hasselt |  | 2020 | [Behaviour Suite for Reinforcement Learning](https://openreview.net/pdf?id=rygf-kSYwH) |
-|  26  |  |  |  | []() |
+|  26  | Ahmad Hammoudeh |  | 2018 | [A Concise Introduction to Reinforcement Learning](https://www.researchgate.net/publication/323178749_A_Concise_Introduction_to_Reinforcement_Learning) |
 |  27  |  |  |  | []() |
 |  28  |  |  |  | []() |
 |  29  | Arvind Kumar, Rajiv Singh & Ram Chandra | International Journal of Science and Research (IJSR) | 2017 | [Emotional Intelligence for Artificial Intelligence: A Review](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ijsr.net/archive/v7i8/ART2019481.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECDgQAQ&usg=AOvVaw1L1baoZdnjX-cwpxbNbCde) |
