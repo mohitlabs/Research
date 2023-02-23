@@ -37,8 +37,8 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  19  | Prem Kamble |  | 2021 | [What is Subconscious Mind? How Does it Impact our Behaviour?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3806525) |
 |  20  | Ralf C. Staudemeyer & Eric Rothstein Morris |  | 2019 | [Understanding LSTM -- a tutorial into Long Short-Term Memory Recurrent Neural Networks](https://arxiv.org/pdf/1909.09586.pdf) |
 |  21  | Zhaoyang Niu, Guoqiang Zhong, Guohua Yue, Li-Na Wang, Hui Yu, Xiao Ling & Junyu Dong |  | 2023 | [Recurrent attention unit: A new gated recurrent unit for long-term memory of important parts in sequential data](https://www.sciencedirect.com/science/article/abs/pii/S0925231222013339) |
-|  22  | Alexandr A. Ezhov |  |  | [Neural Network Model of Unconscious](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_3) |
-|  23  |  |  |  | []() |
+|  22  | Alexandr A. Ezhov |  | 2018 | [Neural Network Model of Unconscious](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_3) |
+|  23  | Tong Zhao, Yiqian Zhu, Hailiang Tang, Rong Xie, Jianhong Zhu, & John H. Zhang |  | 2019 | [Consciousness: New Concepts and Neural Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6629860/) |
 |  24  |  |  |  | []() |
 |  25  |  |  |  | []() |
 |  26  |  |  |  | []() |
