@@ -68,6 +68,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 - [A Concise History of Hindu Astrology and Indian Spirituality](https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality)
 - [Astrology](https://en.wikipedia.org/wiki/Astrology)
 - [Astrology and Science](https://en.wikipedia.org/wiki/Astrology_and_science)
+- [Barnum Effect](https://en.wikipedia.org/wiki/Barnum_effect)
 - [Consciousness](https://en.wikipedia.org/wiki/Consciousness)
 - [Subconscious](https://en.wikipedia.org/wiki/Subconscious)
 - [Neural Oscillations(Brain Waves)](https://en.wikipedia.org/wiki/Neural_oscillation)
