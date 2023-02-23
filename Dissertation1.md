@@ -33,7 +33,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  15  | Raja M L Maravan Lakshmana Reddi | Research Gate | 2022 | [Description of Twelve Zodiac Signs in Ancient Indian Texts](https://www.researchgate.net/publication/359710805_Description_of_Twelve_Zodiac_Signs_in_Ancient_Indian_Texts) |
 |  16  | Priya, Shreya Sureka & Dr. Divya Jain | International Journal of Scientific Research in Science, Engineering and Technology | 2021 | [The Potentials of Subconscious Mind](https://www.researchgate.net/publication/349718138_The_Potentials_of_Subconscious_Mind) |
 |  17  | Krishanu Kumar Das |  | 2021 | [Consciousness:AndItsRelation With SubconsciousMind](https://osf.io/hnvba) |
-|  18  |  |  |  | []() |
+|  18  | Luxiang Zhang & Jialing Yuan |  | 2021 | [The Effect of Subconscious on Life and Ethical Behavior](https://www.atlantis-press.com/article/125966956.pdf) |
 |  19  |  |  |  | []() |
 |  20  |  |  |  | []() |
 |  21  |  |  |  | []() |
