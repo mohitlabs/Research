@@ -72,7 +72,8 @@ flowchart LR;
   pp-->sm
   sa-->ncp
   sm-->ncp
-  ncp-->ncp
+  ncp-->pse
+  pse-->ncp
   ncp-->os
 ```
 
