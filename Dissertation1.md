@@ -58,6 +58,17 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  40  |  |  |  | []() |
 
 ## 3. Methedology
+```mermaid
+flowchart LR;
+  input(Input)
+  sa(Sentiment Analysis)
+  pp(Planetary Positions)
+  sm(Sentiment Mapping)
+  pse(Past Sentiment Experiences)
+  ncp(Network Current Personality)
+  os(Output Sentiment)
+  
+```
 
 ## 4. Implementation
 
