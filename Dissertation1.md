@@ -28,8 +28,8 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  10  | Partha Sarathi Paul | SpringerLink | 2021 | [Application of Big Data and Machine Learning for Astrological Predictions](https://link.springer.com/chapter/10.1007/978-981-16-2543-5_1) |
 |  11  | Vanderson Esperidião-Antonio, Marilia Majeski-Colombo, Diana Toledo-Monteverde, Glaciele Moraes-Martins, Juliana José Fernandes, Marjorie Bauchiglioni de Assis, Stefânia Montenegro & Rodrigo Siqueira-Batista | International Review of Psychiatry | 2017 | [Neurobiology of emotions: an update](https://www.tandfonline.com/doi/full/10.1080/09540261.2017.1285983) |
 |  12  | Sahiti S. Magapu & Sashank Vaddiparty | International Journal of Innovative Science and Research Technology | 2019 | [The Study of Emotional Intelligence in Artificial Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&url=https://ijisrt.com/wp-content/uploads/2019/02/IJISRT19JA351.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECBEQAQ&usg=AOvVaw14LIEFBptEDmRJ-LSdXkpN) |
-|  13  |  |  |  | []() |
-|  14  |  |  |  | []() |
+|  13  | Raksha Sharma, Arpan Somani, Lakshya Kumar & Pushpak Bhattacharyya | IIT Bombay, India | 2017 | [Sentiment Intensity Ranking among Adjectives Using Sentiment Bearing Word Embeddings](https://aclanthology.org/D17-1058.pdf) |
+|  14  | Felix Hamborg & Karsten Donnay |  | 2021 | [NewsMTSC: A Dataset for (Multi-)Target-dependent Sentiment Classification in Political News Articles](https://aclanthology.org/2021.eacl-main.142.pdf) |
 |  15  |  |  |  | []() |
 |  16  |  |  |  | []() |
 |  17  |  |  |  | []() |
@@ -76,3 +76,5 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 - [Belief Systems](https://en.wikipedia.org/wiki/Belief)
 - [Mathematical Psychology](https://en.wikipedia.org/wiki/Mathematical_psychology)
 - [Understanding the neuroscience behind emotional intelligence](https://www.forbes.com/sites/forbescoachescouncil/2020/04/22/understanding-the-neuroscience-behind-emotional-intelligence/)
+- [Sentiment Analysis](https://en.wikipedia.org/wiki/Sentiment_analysis)
+- [Affective Computing](https://en.wikipedia.org/wiki/Affective_computing)
