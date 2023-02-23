@@ -65,6 +65,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 
 ## References
 - [Brihat Parashar Hora Shastra by Pt. Ganesh Datt Pathak](https://archive.org/details/BrihatParasharHoraShastraGaneshDattPathak)
+- [Vedic Astrology](https://www.vedic-astrology.net/)
 - [A Concise History of Hindu Astrology and Indian Spirituality](https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality)
 - [Astrology](https://en.wikipedia.org/wiki/Astrology)
 - [Astrology and Science](https://en.wikipedia.org/wiki/Astrology_and_science)
