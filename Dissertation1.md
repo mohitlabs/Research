@@ -96,6 +96,7 @@ flowchart TB
 - [Barnum Effect](https://en.wikipedia.org/wiki/Barnum_effect)
 - [Consciousness](https://en.wikipedia.org/wiki/Consciousness)
 - [Subconscious](https://en.wikipedia.org/wiki/Subconscious)
+- [Artificial Consciousness](https://en.wikipedia.org/wiki/Artificial_consciousness)
 - [Neural Oscillations(Brain Waves)](https://en.wikipedia.org/wiki/Neural_oscillation)
 - [Behavioral Neuroscience](https://en.wikipedia.org/wiki/Behavioral_neuroscience)
 - [Emotion](https://en.wikipedia.org/wiki/Emotion)
