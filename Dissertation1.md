@@ -58,6 +58,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  40  |  |  |  | []() |
 
 ## 3. Methedology
+
 ```mermaid
 flowchart LR;
   input(Input)
@@ -72,8 +73,8 @@ flowchart LR;
   pp-->sm
   sa-->ncp
   sm-->ncp
-  ncp-->pse
   pse-->ncp
+  ncp-->pse
   ncp-->os
 ```
 
