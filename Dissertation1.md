@@ -50,7 +50,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  32  | Irene Daum & Hans Markowitsch |  | 2009 | [Neurobiological Basis of Emotions](https://www.researchgate.net/publication/226394023_Neurobiological_Basis_of_Emotions) |
 |  33  | Too Many | NATIONAL SCIENTIFIC COUNCIL ON THE DEVELOPING CHILD | 2004 | [Children’s Emotional Development Is Built into the Architecture of Their Brains](https://developingchild.harvard.edu/wp-content/uploads/2004/04/Childrens-Emotional-Development-Is-Built-into-the-Architecture-of-Their-Brains.pdf) |
 |  34  | Rosalind W Picard | Research Gate | 2004 | [Toward Machines With Emotional Intelligence](https://www.researchgate.net/publication/221645343_Toward_Machines_With_Emotional_Intelligence) |
-|  35  |  |  |  | []() |
+|  35  | Zeljko AGIC & Danijela MERKLER |  | 2012 | [Rule-Based Sentiment Analysis in Narrow Domain: Detecting Sentiment in Daily Horoscopes Using Sentiscope](https://aclanthology.org/W12-5312.pdf) |
 |  36  |  |  |  | []() |
 |  37  |  |  |  | []() |
 |  38  |  |  |  | []() |
