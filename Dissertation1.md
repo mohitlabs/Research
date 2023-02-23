@@ -31,7 +31,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  13  | Raksha Sharma, Arpan Somani, Lakshya Kumar & Pushpak Bhattacharyya | IIT Bombay, India | 2017 | [Sentiment Intensity Ranking among Adjectives Using Sentiment Bearing Word Embeddings](https://aclanthology.org/D17-1058.pdf) |
 |  14  | Felix Hamborg & Karsten Donnay |  | 2021 | [NewsMTSC: A Dataset for (Multi-)Target-dependent Sentiment Classification in Political News Articles](https://aclanthology.org/2021.eacl-main.142.pdf) |
 |  15  | Raja M L Maravan Lakshmana Reddi | Research Gate | 2022 | [Description of Twelve Zodiac Signs in Ancient Indian Texts](https://www.researchgate.net/publication/359710805_Description_of_Twelve_Zodiac_Signs_in_Ancient_Indian_Texts) |
-|  16  |  |  |  | []() |
+|  16  | Priya, Shreya Sureka & Dr. Divya Jain | International Journal of Scientific Research in Science, Engineering and Technology | 2021 | [The Potentials of Subconscious Mind](https://www.researchgate.net/publication/349718138_The_Potentials_of_Subconscious_Mind) |
 |  17  |  |  |  | []() |
 |  18  |  |  |  | []() |
 |  19  |  |  |  | []() |
