@@ -40,7 +40,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  22  | Alexandr A. Ezhov |  | 2018 | [Neural Network Model of Unconscious](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_3) |
 |  23  | Tong Zhao, Yiqian Zhu, Hailiang Tang, Rong Xie, Jianhong Zhu, & John H. Zhang |  | 2019 | [Consciousness: New Concepts and Neural Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6629860/) |
 |  24  | Eugene Piletsky |  | 2019 | [Consciousness and Unconsciousness of Artificial Intelligence](https://www.researchgate.net/publication/332215462_Consciousness_and_Unconsciousness_of_Artificial_Intelligence) |
-|  25  |  |  |  | []() |
+|  25  | Ian Osband, Yotam Doron, Matteo Hessel, John Aslanides, Eren Sezener, Andre Saraiva, Katrina McKinney, Tor Lattimore, Csaba Szepesvari, Satinder Singh, Benjamin Van Roy, Richard Sutton, David Silver & Hado Van Hasselt |  | 2020 | [Behaviour Suite for Reinforcement Learning](https://openreview.net/pdf?id=rygf-kSYwH) |
 |  26  |  |  |  | []() |
 |  27  |  |  |  | []() |
 |  28  |  |  |  | []() |
@@ -58,6 +58,8 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  40  |  |  |  | []() |
 
 ## 3. Methedology
+
+Basic Architecture of Emotionally Intelligent Unit(EIU):-
 
 ```mermaid
 flowchart TB
