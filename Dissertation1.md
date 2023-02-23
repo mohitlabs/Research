@@ -34,7 +34,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  16  | Priya, Shreya Sureka & Dr. Divya Jain | International Journal of Scientific Research in Science, Engineering and Technology | 2021 | [The Potentials of Subconscious Mind](https://www.researchgate.net/publication/349718138_The_Potentials_of_Subconscious_Mind) |
 |  17  | Krishanu Kumar Das |  | 2021 | [Consciousness:AndItsRelation With SubconsciousMind](https://osf.io/hnvba) |
 |  18  | Luxiang Zhang & Jialing Yuan |  | 2021 | [The Effect of Subconscious on Life and Ethical Behavior](https://www.atlantis-press.com/article/125966956.pdf) |
-|  19  |  |  |  | []() |
+|  19  | Prem Kamble |  | 2021 | [What is Subconscious Mind? How Does it Impact our Behaviour?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3806525) |
 |  20  |  |  |  | []() |
 |  21  |  |  |  | []() |
 |  22  |  |  |  | []() |
