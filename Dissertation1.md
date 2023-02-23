@@ -35,7 +35,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  17  | Krishanu Kumar Das |  | 2021 | [Consciousness:AndItsRelation With SubconsciousMind](https://osf.io/hnvba) |
 |  18  | Luxiang Zhang & Jialing Yuan |  | 2021 | [The Effect of Subconscious on Life and Ethical Behavior](https://www.atlantis-press.com/article/125966956.pdf) |
 |  19  | Prem Kamble |  | 2021 | [What is Subconscious Mind? How Does it Impact our Behaviour?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3806525) |
-|  20  |  |  |  | []() |
+|  20  | Ralf C. Staudemeyer & Eric Rothstein Morris |  | 2019 | [Understanding LSTM -- a tutorial into Long Short-Term Memory Recurrent Neural Networks](https://arxiv.org/pdf/1909.09586.pdf) |
 |  21  |  |  |  | []() |
 |  22  |  |  |  | []() |
 |  23  |  |  |  | []() |
