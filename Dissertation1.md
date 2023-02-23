@@ -66,7 +66,7 @@ flowchart TB
   pp(Planetary Positions)
   sm(Astrology based Sentiment Mapping)
   pse(Past Sentiment Experiences)
-  cp(Current Personality of Network Network)
+  cp(Current Personality of Neural Network)
   os(Output Sentiment)
   
   subgraph Emotionally Intelligent Unit EIU
