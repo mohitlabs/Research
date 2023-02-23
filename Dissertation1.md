@@ -60,7 +60,6 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 ## 3. Methedology
 
 ```mermaid
-flowchart LR;
   input(Input)
   sa(Sentiment Analysis)
   pp(Planetary Positions)
@@ -70,16 +69,17 @@ flowchart LR;
   os(Output Sentiment)
   
   subgraph Emotionally Intelligent Unit EIU
-    input-->sa
-    subgraph Sentiment Synthesis
-      pp-->sm
+    flowchart LR
+      input-->sa
+      subgraph Sentiment Synthesis
+        pp-->sm
+      end
+      sa-->ncp
+      sm-->ncp
+      pse-->ncp
+      ncp-->pse
+      ncp-->os
     end
-    sa-->ncp
-    sm-->ncp
-    pse-->ncp
-    ncp-->pse
-    ncp-->os
-  end
 ```
 
 ## 4. Implementation
