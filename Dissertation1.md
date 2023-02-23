@@ -43,7 +43,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  25  | Ian Osband, Yotam Doron, Matteo Hessel, John Aslanides, Eren Sezener, Andre Saraiva, Katrina McKinney, Tor Lattimore, Csaba Szepesvari, Satinder Singh, Benjamin Van Roy, Richard Sutton, David Silver & Hado Van Hasselt |  | 2020 | [Behaviour Suite for Reinforcement Learning](https://openreview.net/pdf?id=rygf-kSYwH) |
 |  26  | Ahmad Hammoudeh |  | 2018 | [A Concise Introduction to Reinforcement Learning](https://www.researchgate.net/publication/323178749_A_Concise_Introduction_to_Reinforcement_Learning) |
 |  27  | Ruiqi Chen, Yanquan Zhou, Liujie Zhang & Xiuyu Duan |  | 2019 | [Word-level sentiment analysis with reinforcement learning](https://iopscience.iop.org/article/10.1088/1757-899X/490/6/062063/pdf) |
-|  28  |  |  |  | []() |
+|  28  | Rui Liu, Berrak Sisman & Haizhou Li |  | 2021 | [Reinforcement Learning for Emotional Text-to-Speech Synthesis with Improved Emotion Discriminability](https://www.isca-speech.org/archive/pdfs/interspeech_2021/liu21p_interspeech.pdf) |
 |  29  | Arvind Kumar, Rajiv Singh & Ram Chandra | International Journal of Science and Research (IJSR) | 2017 | [Emotional Intelligence for Artificial Intelligence: A Review](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ijsr.net/archive/v7i8/ART2019481.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECDgQAQ&usg=AOvVaw1L1baoZdnjX-cwpxbNbCde) |
 |  30  | Himanshu Kumar & A. Martin | Science Direct | 2016 | [Artificial Emotional Intelligence: Conventional and deep learning approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417422016931) |
 |  31  | P. Lee & D. Gurnkl | International Journal of Artificial Intelligence | 2015 | [Why Truly Intelligent Machines Need Emotions](https://www.researchgate.net/publication/281890143_Why_Truly_Intelligent_Machines_Need_Emotions) |
@@ -110,6 +110,8 @@ flowchart TB
 - [Understanding the neuroscience behind emotional intelligence](https://www.forbes.com/sites/forbescoachescouncil/2020/04/22/understanding-the-neuroscience-behind-emotional-intelligence/)
 - [Sentiment Analysis](https://en.wikipedia.org/wiki/Sentiment_analysis)
 - [Affective Computing](https://en.wikipedia.org/wiki/Affective_computing)
+- [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+- [Reinforcement Learning for Emotional Text-to-Speech Synthesis with Improved Emotion Discriminability](https://ttslr.github.io/i-ETTS/)
 - [Perceptron(P)](https://en.wikipedia.org/wiki/Perceptron)
 - [Artificial Neural Networks(ANN's)](https://en.wikipedia.org/wiki/Artificial_neural_network)
 - [Biological Neural Networks(BNN's)](https://en.wikipedia.org/wiki/Biological_neural_network)
