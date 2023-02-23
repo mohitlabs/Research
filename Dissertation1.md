@@ -30,7 +30,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  12  | Sahiti S. Magapu & Sashank Vaddiparty | International Journal of Innovative Science and Research Technology | 2019 | [The Study of Emotional Intelligence in Artificial Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&url=https://ijisrt.com/wp-content/uploads/2019/02/IJISRT19JA351.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECBEQAQ&usg=AOvVaw14LIEFBptEDmRJ-LSdXkpN) |
 |  13  | Raksha Sharma, Arpan Somani, Lakshya Kumar & Pushpak Bhattacharyya | IIT Bombay, India | 2017 | [Sentiment Intensity Ranking among Adjectives Using Sentiment Bearing Word Embeddings](https://aclanthology.org/D17-1058.pdf) |
 |  14  | Felix Hamborg & Karsten Donnay |  | 2021 | [NewsMTSC: A Dataset for (Multi-)Target-dependent Sentiment Classification in Political News Articles](https://aclanthology.org/2021.eacl-main.142.pdf) |
-|  15  | Raja M L Maravan Lakshmana Reddi |  |  | [Description of Twelve Zodiac Signs in Ancient Indian Texts](https://www.researchgate.net/publication/359710805_Description_of_Twelve_Zodiac_Signs_in_Ancient_Indian_Texts) |
+|  15  | Raja M L Maravan Lakshmana Reddi | Research Gate | 2022 | [Description of Twelve Zodiac Signs in Ancient Indian Texts](https://www.researchgate.net/publication/359710805_Description_of_Twelve_Zodiac_Signs_in_Ancient_Indian_Texts) |
 |  16  |  |  |  | []() |
 |  17  |  |  |  | []() |
 |  18  |  |  |  | []() |
