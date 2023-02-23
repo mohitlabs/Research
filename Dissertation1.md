@@ -69,13 +69,17 @@ flowchart LR;
   ncp(Network Current Personality)
   os(Output Sentiment)
   
-  input-->sa
-  pp-->sm
-  sa-->ncp
-  sm-->ncp
-  pse-->ncp
-  ncp-->pse
-  ncp-->os
+  subgraph EIU
+    input-->sa
+    subgraph Sentiment Synthesis
+      pp-->sm
+    end
+    sa-->ncp
+    sm-->ncp
+    pse-->ncp
+    ncp-->pse
+    ncp-->os
+  end
 ```
 
 ## 4. Implementation
