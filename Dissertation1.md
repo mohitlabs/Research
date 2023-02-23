@@ -96,6 +96,7 @@ flowchart TB
 - [Barnum Effect](https://en.wikipedia.org/wiki/Barnum_effect)
 - [Consciousness](https://en.wikipedia.org/wiki/Consciousness)
 - [Subconscious](https://en.wikipedia.org/wiki/Subconscious)
+- [Unconscious Mind](https://en.wikipedia.org/wiki/Unconscious_mind)
 - [The Power Of Your Subconscious Mind (Joseph Murphy)](https://archive.org/details/the-power-of-your-subconscious-mind-joseph-murphy)
 - [Artificial Consciousness](https://en.wikipedia.org/wiki/Artificial_consciousness)
 - [Neural Oscillations(Brain Waves)](https://en.wikipedia.org/wiki/Neural_oscillation)
