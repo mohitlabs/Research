@@ -52,7 +52,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  34  | Rosalind W Picard | Research Gate | 2004 | [Toward Machines With Emotional Intelligence](https://www.researchgate.net/publication/221645343_Toward_Machines_With_Emotional_Intelligence) |
 |  35  | Zeljko AGIC & Danijela MERKLER |  | 2012 | [Rule-Based Sentiment Analysis in Narrow Domain: Detecting Sentiment in Daily Horoscopes Using Sentiscope](https://aclanthology.org/W12-5312.pdf) |
 |  36  | Philippe Zarka | International Astronomical Union 2011 | 2011 | [Astronomy and Astrology](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3171E9B009B4E8421B1913AC0A08AB32/S1743921311002602a.pdf/astronomy-and-astrology.pdf) |
-|  37  |  |  |  | []() |
+|  37  |  |  |  | [Towards Machines with Emotional Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&url=https://affect.media.mit.edu/pdfs/07.picard-EI-chapter.pdf&ved=2ahUKEwiNnKT00639AhWU2DgGHUK6B_AQFnoECBAQAQ&usg=AOvVaw1F5T-XqiBRbl57TJyib1Vr) |
 |  38  |  |  |  | []() |
 |  39  |  |  |  | []() |
 |  40  |  |  |  | []() |
