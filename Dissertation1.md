@@ -53,10 +53,9 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  35  | Zeljko AGIC & Danijela MERKLER |  | 2012 | [Rule-Based Sentiment Analysis in Narrow Domain: Detecting Sentiment in Daily Horoscopes Using Sentiscope](https://aclanthology.org/W12-5312.pdf) |
 |  36  | Philippe Zarka | International Astronomical Union 2011 | 2011 | [Astronomy and Astrology](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3171E9B009B4E8421B1913AC0A08AB32/S1743921311002602a.pdf/astronomy-and-astrology.pdf) |
 |  37  | Rosalind W. Picard | MIT Media Laboratory |  | [Towards Machines with Emotional Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&url=https://affect.media.mit.edu/pdfs/07.picard-EI-chapter.pdf&ved=2ahUKEwiNnKT00639AhWU2DgGHUK6B_AQFnoECBAQAQ&usg=AOvVaw1F5T-XqiBRbl57TJyib1Vr) |
-|  38  |Sahiti S. Magapu |  |  | [The Study of Emotional Intelligence in Artificial Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&url=https://ijisrt.com/wp-content/uploads/2019/02/IJISRT19JA351.pdf&ved=2ahUKEwiNnKT00639AhWU2DgGHUK6B_AQFnoECBEQAQ&usg=AOvVaw14LIEFBptEDmRJ-LSdXkpN) |
+|  38  | Sahiti S. Magapu |  |  | [The Study of Emotional Intelligence in Artificial Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&url=https://ijisrt.com/wp-content/uploads/2019/02/IJISRT19JA351.pdf&ved=2ahUKEwiNnKT00639AhWU2DgGHUK6B_AQFnoECBEQAQ&usg=AOvVaw14LIEFBptEDmRJ-LSdXkpN) |
 |  39  |  |  |  | [Implementation of Emotional Intelligence in a machine](https://www.academia.edu/26823506/Implementation_of_Emotional_Intelligence_in_a_machine) |
-|  40  |  |  |  | [Emotional Intelligence Robotics to Motivate 
-Interaction in e-Learning: An Algorithm](https://www.google.com/url?sa=t&source=web&rct=j&url=https://syncedreview.com/2017/03/14/emotional-intelligence-is-the-future-of-artificial-intelligence/amp/&ved=2ahUKEwj31bGC1q39AhXnxjgGHXtqAks4KBAWegQIAhAB&usg=AOvVaw07gEnP_rLY5QBj8645i52q) |
+|  40  |  |  |  | [Emotional Intelligence Robotics to Motivate you Interaction in e-Learning: An Algorithm](https://www.google.com/url?sa=t&source=web&rct=j&url=https://syncedreview.com/2017/03/14/emotional-intelligence-is-the-future-of-artificial-intelligence/amp/&ved=2ahUKEwj31bGC1q39AhXnxjgGHXtqAks4KBAWegQIAhAB&usg=AOvVaw07gEnP_rLY5QBj8645i52q) |
 
 ## 3. Methedology
 
