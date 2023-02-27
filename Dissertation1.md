@@ -57,7 +57,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 |  39  |  |  |  | [Implementation of Emotional Intelligence in a machine](https://www.academia.edu/26823506/Implementation_of_Emotional_Intelligence_in_a_machine) |
 |  40  |  |  |  | [Emotional Intelligence Robotics to Motivate you Interaction in e-Learning: An Algorithm](https://www.google.com/url?sa=t&source=web&rct=j&url=https://syncedreview.com/2017/03/14/emotional-intelligence-is-the-future-of-artificial-intelligence/amp/&ved=2ahUKEwj31bGC1q39AhXnxjgGHXtqAks4KBAWegQIAhAB&usg=AOvVaw07gEnP_rLY5QBj8645i52q) |
 
-## 3. Methedology
+## 3. Methodology
 
 Basic Architecture of Emotionally Intelligent Unit(EIU):-
 
