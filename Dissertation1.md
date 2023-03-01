@@ -90,6 +90,8 @@ flowchart TB
 ## 5. Conclusion
 
 ## References
+
+## Bibliography
 - [Brihat Parashar Hora Shastra by Pt. Ganesh Datt Pathak](https://archive.org/details/BrihatParasharHoraShastraGaneshDattPathak)
 - [Vedic Astrology](https://www.vedic-astrology.net/)
 - [A Concise History of Hindu Astrology and Indian Spirituality](https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality)
