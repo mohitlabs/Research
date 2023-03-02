@@ -11,8 +11,9 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 > Neural Networks, Sentimental Analysis, Vedic Astrology, Synthesis, Emotional Intelligence, Affective Computing, Subconsious, Cognitive Science, Philosophy, Psychology, Modalities, Galvanic Resistance, Bioinformatics
 
 ## 1. Introduction
-> Psychology Human Mind, Dynamical Systems & Astrology 
-Human mind is one of the most important organ of human body which contains thoughts, imagination, memory, will power & sensation. Dynamical systems theory is often used to study the relationship between the human mind and behaviour. The human mind is a very complex dynamical system that evolves over time in responses to the various inputs from the environment. To understand this simply, let's imagine is our mind 
+> The Psychology of Human Mind, Dynamical Systems & Astrology
+
+Human mind is one of the most important organ of human body which contains thoughts, imagination, memory, will power & sensation. Dynamical systems theory is often used to study the relationship between the human mind and behaviour. The human mind is a very complex dynamical system that evolves over time in responses to the various inputs from the environment. To understand this simply, let's imagine what happen if human mind does not have any type of memory with it?
 
 ## 2. Literature Review
 
