@@ -11,7 +11,7 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 > Neural Networks, Sentimental Analysis, Vedic Astrology, Synthesis, Emotional Intelligence, Affective Computing, Subconsious, Cognitive Science, Philosophy, Psychology, Modalities, Galvanic Resistance, Bioinformatics
 
 ## 1. Introduction
-> Need of EIU's
+> Need of EIM's in Modern Technical World
 
 > Human Mind, Astrology & Dynamical Systems
 
