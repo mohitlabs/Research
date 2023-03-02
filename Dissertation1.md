@@ -23,7 +23,7 @@ Dynamical systems theory is oftenly used to study the relationship between the h
 
 > How Vedic Astrology Effects Human Mind?
 
-In dynamical systems theory, there is a term which is known as the initial condition of the system. In general, initial conditions are the values of the variables at the starting time of the simulation or experiment, and they are needed to solve the reccurence relation(difference equations) and differential equations and obtain a solution. The horoscope or the birth chart of an individual exactly works just like the initial condition for the emotional dynamical system of that individual.
+In dynamical systems theory, there is a term which is known as the initial condition of the system. In general, initial conditions are the values of the variables at the starting time of the simulation or experiment, and they are needed to solve the reccurence relation(difference equations) in discrete-time domain and differential equations in continuous-time domain to obtain the solution. In analogy with vedic astrology, the horoscope chart or the birth chart of an individual exactly works just like the initial condition of the emotional dynamical system of that individual.
 
 ## 2. Literature Review
 
