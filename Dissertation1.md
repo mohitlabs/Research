@@ -11,6 +11,8 @@ This paper describes that how Emotionally Intelligent Machines(EIM's) can be dev
 > Neural Networks, Sentimental Analysis, Vedic Astrology, Synthesis, Emotional Intelligence, Affective Computing, Subconsious, Cognitive Science, Philosophy, Psychology, Modalities, Galvanic Resistance, Bioinformatics
 
 ## 1. Introduction
+> Psychology Human Mind, Dynamical Systems & Astrology
+The human mind is a vary complex dynamical system that evolves over time in responses to the various inputs from the environment.
 
 ## 2. Literature Review
 
