@@ -8,14 +8,18 @@
 This paper describes that how Emotionally Intelligent Machines(EIM's) can be developed by using the concept of Ancient Vedic Astrology.
 
 ## Keywords
-> Neural Networks, Sentimental Analysis, Vedic Astrology, Synthesis, Emotional Intelligence, Affective Computing, Subconsious, Cognitive Science, Philosophy, Psychology, Modalities, Galvanic Resistance, Bioinformatics
+> Neural Networks, Sentimental Analysis, Vedic Astrology, Synthesis, Emotional Intelligence, Affective Computing, Subconsious, Cognitive Science, Philosophy, Psychology, Modalities, Galvanic Resistance, Bioinformatics, The Gateway Experience, Hemi-Sync, Cognitive Dissonance, Cognitive Harmony, Astral Travel, Hypnosis, Trasedental Meditation, BioFeedback(Creative Visualization), Emotion Dynamics
 
 ## 1. Introduction
 > Need of EIM's in Modern Technical World
 
-> Human Mind, Astrology & Dynamical Systems
+> Human Mind, Vedic Astrology & Dynamical Systems
 
-Human mind is one of the most important part of the entire human body which contains thoughts, imagination, memory, will power & sensation. Every human being has it's own personality. Some have similar personalities, some have not. The individual's mindset is responsible for it's own personality and behaviour. Human mind is classified majorly into three categories. Conscious, subconscious & unconscious mind. All the events around us which we are experiencing currently which is also known as the "awareness", comes due to the conscious mind, all of our habits and routines which are formed due to the repetition processes of our feelings, experiences and task handling and completion are stored in the subconscious. The third type of category of mind is the most mysterious and powerful which is the unconscious mind. It operates beyond our conscious awareness. It is the part of our mind which contains thoughts, memories and emotions that we are not aware of, but that still influence our behaviour and feelings drastically. Conscious mind contains some short term memory in a very less amount. The content stored inside this type of mind can be changed easily. Subconscious mind has more memory than the conscious mind. It can store thoughts longer than the conscious mind which are difficult to change and involves practicing something continuously, developing habits by doing continous efforts, etc in order to change the mindset. The unconscious mind has permanent memory which can't be changed by any type of effort. It is the primary source of the human behaviour and personality. It is just like the default personality of any particular human being.
+Human mind is one of the most important part of the entire human body which contains thoughts, imagination, memory, will power & sensation. Every human being has it's own personality. Some have similar personalities, some have not. The individual's mindset is responsible for it's own personality and behaviour. Human mind is classified majorly into three categories. Conscious, subconscious & unconscious mind. All the events around us which we are experiencing currently which is also known as the "awareness", comes due to the conscious mind, all of our habits and routines which are formed due to the repetition processes of our feelings, experiences and task handling and completion are stored in the subconscious. The third type of category of mind is the most mysterious and powerful which is the unconscious mind. It operates beyond our conscious awareness. It is the part of our mind which contains thoughts, memories and emotions that we are not aware of, but that still influence our behaviour and feelings drastically. Conscious mind contains some short term memory in a very less amount. The content stored inside this type of mind can be changed easily. Subconscious mind has more long term memory than the conscious mind. It can store thoughts longer than the conscious mind which are difficult to change and involves practicing something continuously, developing habits by doing continous efforts, etc in order to change the mindset. The unconscious mind has permanent memory which can't be changed by any type of effort. It is the primary source of the human behaviour and personality. It is just like the default personality of any particular human being.
+
+Emotion Dynamics, melody progression example, comedy jokes example, momentum
+
+In this presentation, Mr. Jon Miles explores the ways in which differential equations for physical energy transfer can be applied to modeling emotion dynamics, with a view toward application in health-care. Improving one's emotional well-being is based on reducing emotional impedance, and understanding how emotion flows through circuits can help in reducing the blockages to flow.
 
 Astrology is like the snapshot of our unconscious mind.
 
@@ -23,7 +27,14 @@ Dynamical systems theory is oftenly used to study the relationship between the h
 
 > How Vedic Astrology Effects Human Mind?
 
-In dynamical systems theory, there is a term which is known as the initial condition of the system. In general, initial conditions are the values of the variables at the starting time of the simulation or experiment, and they are needed to solve the reccurence relation(difference equations) in discrete-time domain and differential equations in continuous-time domain to obtain the solution. In analogy with vedic astrology, the horoscope chart or the birth chart of an individual exactly works just like the initial condition of the emotional dynamical system of that individual.
+In dynamical systems theory, there is a very important term which is known as the initial condition of the system. In general, initial conditions are the values of the variables at the starting time of the simulation or experiment, and they are needed to solve the reccurence relation(difference equations) in discrete-time domain and differential equations in continuous-time domain to obtain the solution. In analogy with vedic astrology, the horoscope chart or the birth chart of an individual exactly works just like the initial condition of the emotional dynamical system of that individual.
+
+> The Gateway Experience, Neural Oscillations(Brain Waves) & Vedic Astrology
+
+According to Robert Allan Monroe, Instead of supressing the left hemisphere, as is done in Hypnosis, or largely bypassing and ignoring it, as it done in Transedental Meditaion, BioFeedback teaches the left hemisphere first to visualize the desired result, and then to recognize the feeling associated with the experience of successful right hemisphere access to the specific lower cerebral cortex. Pain or pleasure or other areas, in the manner needed to produce the desired result.
+
+Overpowering logical vs emotional mind.  
+Saturn(Shani Dev) vs Moon(Chandra Dev).  
 
 ## 2. Literature Review
 
@@ -68,7 +79,8 @@ In dynamical systems theory, there is a term which is known as the initial condi
 |  37  | Rosalind W. Picard | MIT Media Laboratory |  | [Towards Machines with Emotional Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&url=https://affect.media.mit.edu/pdfs/07.picard-EI-chapter.pdf&ved=2ahUKEwiNnKT00639AhWU2DgGHUK6B_AQFnoECBAQAQ&usg=AOvVaw1F5T-XqiBRbl57TJyib1Vr) |
 |  38  | Sahiti S. Magapu |  |  | [The Study of Emotional Intelligence in Artificial Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&url=https://ijisrt.com/wp-content/uploads/2019/02/IJISRT19JA351.pdf&ved=2ahUKEwiNnKT00639AhWU2DgGHUK6B_AQFnoECBEQAQ&usg=AOvVaw14LIEFBptEDmRJ-LSdXkpN) |
 |  39  |  |  |  | [Implementation of Emotional Intelligence in a machine](https://www.academia.edu/26823506/Implementation_of_Emotional_Intelligence_in_a_machine) |
-|  40  |  |  |  | [Emotional Intelligence Robotics to Motivate you Interaction in e-Learning: An Algorithm](https://www.google.com/url?sa=t&source=web&rct=j&url=https://syncedreview.com/2017/03/14/emotional-intelligence-is-the-future-of-artificial-intelligence/amp/&ved=2ahUKEwj31bGC1q39AhXnxjgGHXtqAks4KBAWegQIAhAB&usg=AOvVaw07gEnP_rLY5QBj8645i52q) |
+|  40  |  |  | 1983 | [Analysis and Assesment of Gateway Process](https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001700210016-5.pdf) |
+|  41  |  |  |  | [Emotional Intelligence Robotics to Motivate you Interaction in e-Learning: An Algorithm](https://www.google.com/url?sa=t&source=web&rct=j&url=https://syncedreview.com/2017/03/14/emotional-intelligence-is-the-future-of-artificial-intelligence/amp/&ved=2ahUKEwj31bGC1q39AhXnxjgGHXtqAks4KBAWegQIAhAB&usg=AOvVaw07gEnP_rLY5QBj8645i52q) |
 
 ## 3. Methodology
 
@@ -99,6 +111,7 @@ flowchart TB
 ```
 
 ## 4. Implementation
+Emoji Use
 
 ## 5. Conclusion
 
@@ -106,6 +119,7 @@ flowchart TB
 
 ## Bibliography
 - [Brihat Parashar Hora Shastra by Pt. Ganesh Datt Pathak](https://archive.org/details/BrihatParasharHoraShastraGaneshDattPathak)
+- [Journeys Out Of Body by Dr. Robert Allan Monroe](https://archive.org/details/journeys_out_body)
 - [Vedic Astrology](https://www.vedic-astrology.net/)
 - [A Concise History of Hindu Astrology and Indian Spirituality](https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality)
 - [Astrology](https://en.wikipedia.org/wiki/Astrology)
@@ -116,6 +130,8 @@ flowchart TB
 - [Unconscious Mind](https://en.wikipedia.org/wiki/Unconscious_mind)
 - [The Power Of Your Subconscious Mind (Joseph Murphy)](https://archive.org/details/the-power-of-your-subconscious-mind-joseph-murphy)
 - [Artificial Consciousness](https://en.wikipedia.org/wiki/Artificial_consciousness)
+- [Analogy & Duality](http://milesresearch.com/pdf/Analogy-and-Duality.pdf)
+- [Emotion Dynamics](http://milesresearch.com/pdf/Emotion-Dynamics.pdf)
 - [Neural Oscillations(Brain Waves)](https://en.wikipedia.org/wiki/Neural_oscillation)
 - [Behavioral Neuroscience](https://en.wikipedia.org/wiki/Behavioral_neuroscience)
 - [Emotion](https://en.wikipedia.org/wiki/Emotion)
