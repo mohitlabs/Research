@@ -12,33 +12,33 @@ In this paper, we will discuss about the Emotionally Intelligent Machines(EIM's)
 
 # 1. Introduction
 ## Importance of EIM's in Modern Technical World
-Emotionally Intelligent Machines(EIM's) is the development of systems that can recognize, interpret, process, and simulate human emotions based on the concept of ancient vedic astrology. They are the machines which can adapt different situations and knows how to handle these situations more intelligently. The applications of EIM's are numerous and expanding rapidly. Some of the common applications of EIM's are:
+Emotionally Intelligent Machines(EIM's) is the development of systems that can recognize, interpret, process, and simulate human emotions based on the concept of ancient vedic astrology. They are the machines which can adapt different situations and knows how to handle these situations more intelligently and smartly. In modern technical world, the importance of EIM's are due to their numerous applications which are expanding rapidly. Some of the common applications of EIM's are:
+* Social Media: EIM's can be used in social media to analyse user's emotions and provide more personalized content.
+* Business Intelligence: EIM's are more intelligent than the traditional machines as a result they can be used in Business Intelligence and can help in Decision Making.
+* Human Resources: EIM's can be used in human resources to analyse employee's emotions and improve the work environment and productivity.
+* Development of Machine Ethics & Computational Morality: EIM's can be useful in developing machine ethics and morality by allowing machines to understand and respond to human emotions, which is an important component of ethical and moral decision-making.
 * Human-Computer Interaction(HCI): EIM's is extremely helpful in HCI, as it enables computers to understand and respond to human emotions, making the interaction more natural, intuitive, and empathetic. Here are some ways in which EIM's can be useful in developing machine ethics and morality:
   * Understanding Human Emotions: EIM's can help machines to understand human emotions, which is an important component of ethical decision-making. For example, a machine that can detect when a human is experiencing fear or pain could adjust its behavior accordingly to avoid causing harm.
   * Ethical Decision-Making: EIM's can help machines to make more ethical decisions by taking into account human emotions and responses. For example, a self-driving car that can detect when a passenger is feeling anxious or stressed could adjust its driving style to provide a safer and more comfortable ride.
   * Morality and Empathy: EIM's can help machines to exhibit more empathy towards humans, which is an important component of moral decision-making. For example, a robot that can detect when a human is feeling sad or lonely could provide comfort or companionship.
   * Human-Machine Collaboration: EIM's can help facilitate collaboration between humans and machines by allowing machines to understand and respond to human emotions. This could lead to more effective and productive collaborations, as well as greater trust between humans and machines.
 * Customer Service:
-  * EIM's is used in customer service to understand customers' emotions and respond accordingly, improving customer satisfaction.
-  * Customer Reviews, Feedbacks & Syrveys.
+  * EIM's can be used in customer service to understand customer's emotions and respond accordingly, improving customer satisfaction.
+  * They can also be used in getting customer reviews, feedbacks & and conducting surveys.
 * Healthcare:
-  * EIM's is used in healthcare to detect patient's emotions and provide appropriate treatment and care.
-  * Treatment of Psychic Pateints.
-  * Counsiling for persons suffering form depression & anxiety or even having suicidal tendency.
+  * EIM's can be used in healthcare to detect patient's emotions and provide appropriate treatment and care.
+  * Treatment of psychic patients.
+  * Counselling for persons suffering form depression & anxiety or even having suicidal tendency.
 * Education:
-  * EIM's is used in education to improve the effectiveness of teaching by understanding the emotional state of the students and adapting the teaching method accordingly.
-* Marketing:
-  * EIM's is used in marketing to analyze customer's emotions and tailor marketing messages to maximize their impact.
+  * EIM's can be used in education sector to improve the effectiveness of teaching by understanding the emotional state of the students and adapting the teaching method accordingly.
+* Marketing & Sales:
+  * EIM's can be used in marketing to analyze customer's emotions and tailor marketing messages to maximize their impact.
+* Art & Culture:
+  * Artistic content generation such as Melodies & Progressions in Music, Paintings & Poetry with correspondence to the culture.
 * Entertainment:
-  * EIM's is used in the entertainment industry to create more immersive experiences for users by understanding their emotional responses.
-  * EIM's is used in gaming to create more engaging games that respond to the player's emotions also create the dynamic gaming environment accordingly.
-  * EIM's is can be also used to create environments and writing scripts in movies industry.
-* Arts:
-  * Artistic content generation such as Melodies & Progressions in Music, Paintings & Poetry.
-* Development of Machine Ethics & Computational Morality: EIM's can be useful in developing machine ethics and morality by allowing machines to understand and respond to human emotions, which is an important component of ethical and moral decision-making.
-* Human Resources: EIM's is used in human resources to analyze employee's emotions and improve the work environment and productivity.
-* Social Media: EIM's is used in social media to analyze user's emotions and provide more personalized content.
-* Business Intelligence: EIM's are more intelligent than the traditional machines as a result they can help in Business Decision Making.
+  * EIM's can be used in the entertainment industry to create more immersive experiences for users by understanding their emotional responses.
+  * EIM's can be used in gaming to create more engaging games that respond to the player's emotions also create the dynamic gaming environment accordingly.
+  * EIM's can be also used to create environments and writing scripts in movies industry.
 
 Overall, EIM's can play an important role in developing machine ethics and morality by allowing machines to understand and respond to human emotions, which is an important component of ethical and moral decision-making. This could help ensure that machines act in accordance with human values and contribute to a more ethical and moral society. They have the potential to improve the way we interact with technology and create more empathetic and personalized experiences.
 
