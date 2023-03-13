@@ -1,4 +1,4 @@
-# **Emotionally Intelligent Machines(EIM's) & Sentiment Synthesis based on Vedic Astrology**
+# **Emotionally Intelligent Machines(EIM's) & Sentiment Synthesis based on Ancient Vedic Astrology**
 > Author: Mohit Singh  
 > College: College of Computing Sciences & Information Technology  
 > University: Teerthanker Mahaveer University Moradabad  
@@ -112,6 +112,16 @@ Saturn(Shani Dev) vs Moon(Chandra Dev).
 |  41  |  |  |  | [Emotional Intelligence Robotics to Motivate you Interaction in e-Learning: An Algorithm](https://www.google.com/url?sa=t&source=web&rct=j&url=https://syncedreview.com/2017/03/14/emotional-intelligence-is-the-future-of-artificial-intelligence/amp/&ved=2ahUKEwj31bGC1q39AhXnxjgGHXtqAks4KBAWegQIAhAB&usg=AOvVaw07gEnP_rLY5QBj8645i52q) |
 
 # 3. Methodology
+
+* Modelling of Emotion Dynamics
+* Differential Equations of Emotions
+* Laplace Transform
+* CTFT
+* Difference Equations of Emotions
+* Z Transform
+* DTFT
+* DFT
+* FFT
 
 Basic Architecture of Emotionally Intelligent Unit(EIU):-
 
