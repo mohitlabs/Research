@@ -5,14 +5,18 @@
 > DOI:
 
 ## Abstract
-In this paper, we will discuss about the Emotionally Intelligent Machines(EIM's) which is the new field of research in Artificial Intelligence but it has a great potential to do immense good, however the technology can be misused but it is up to the consumers of this technology who will decide whether the technology will be used for good or for evil. This paper describes that how Emotionally Intelligent Machines(EIM's) & Sentiment Synthesis Systems can be developed by using the concept of Ancient Vedic Astrology.
+In this paper, we will discuss about the Emotionally Intelligent Machines(EIM's) which is the new field of research in Artificial Intelligence but it has a great potential to do immense good, however the technology can be misused but it is up to the consumers of this technology who will decide whether the it will be used for good or for evil. Also, Astrology has always been a controversial topic and is completely depends upto the personal faiths and beliefs of an individual. Apart from that, this paper describes that how Emotionally Intelligent Machines(EIM's) & Sentiment Synthesis Systems can be developed by using the concept of Ancient Vedic Astrology.
 
 ## Keywords
 > Neural Networks, Sentimental Analysis, Vedic Astrology, Synthesis, Emotional Intelligence, Affective Computing, Subconsious, Cognitive Science, Philosophy, Psychology, Modalities, Galvanic Resistance, Bioinformatics, The Gateway Experience, Hemi-Sync, Cognitive Dissonance, Cognitive Harmony, Astral Travel, Hypnosis, Trasedental Meditation, BioFeedback(Creative Visualization), Emotion Dynamics
 
 # 1. Introduction
-## Importance of EIM's in Modern Technical World
-Emotionally Intelligent Machines(EIM's) is the development of systems that can recognize, interpret, process, and simulate human emotions based on the concept of ancient vedic astrology. They are the machines which can adapt different situations and knows how to handle these situations more intelligently and smartly. In modern technical world, the importance of EIM's are due to their numerous applications which are expanding rapidly. Some of the common applications of EIM's are:
+## Why Truly Intelligent Machines Need Emotions?
+Neuroscience is starting to discover that emotions are crucial in human decision making-processes. At the same time, Artificial Intelligence is noting the value of these concepts for machine reasoning.
+
+For half a century, artificial-intelligence researchers have focused on giving machines linguistic and mathematical-logical reasoning abilities, modelled after the classic linguistic and mathematical-logical intelligences. This paper describes new research that is giving machines skills of emotional intelligence. Machines have long been able to appear as if they have emotional feelings, but they are now being programmed to also learn when and how to display emotion in ways that enable them to appear empathetic or otherwise emotionally intelligent. They are now being given the ability to sense and recognize expressions of human emotion such as interest, distress, and pleasure, with the recognition that such communication is vital for helping them choose more helpful and less-aggravating behaviour.
+
+Emotionally Intelligent Machines(EIM's) is the development of systems that can recognize, interpret, process, and simulate human emotions based on the concept of ancient vedic astrology. They are the machines which can adapt different situations and knows how to handle these situations more intelligently and smartly. In modern technical world, the need of EIM's are can be seen due to their numerous applications which are expanding rapidly. Some of the common applications of EIM's are:
 * Social Media: EIM's can be used in social media to analyse user's emotions and provide more personalized content.
 * Business Intelligence: EIM's are more intelligent than the traditional machines as a result they can be used in Business Intelligence and can help in Decision Making.
 * Human Resources: EIM's can be used in human resources to analyse employee's emotions and improve the work environment and productivity.
@@ -31,39 +35,55 @@ Emotionally Intelligent Machines(EIM's) is the development of systems that can r
   * Counselling for persons suffering form depression & anxiety or even having suicidal tendency.
 * Education:
   * EIM's can be used in education sector to improve the effectiveness of teaching by understanding the emotional state of the students and adapting the teaching method accordingly.
-* Marketing & Sales:
-  * EIM's can be used in marketing to analyze customer's emotions and tailor marketing messages to maximize their impact.
+* Marketing, Sales & Advertisement:
+  * EIM's can be used in marketing to analyze customer's emotions and tailor marketing messages to maximize their impact which leads in increment of sales conversion rate.
 * Art & Culture:
-  * Artistic content generation such as Melodies & Progressions in Music, Paintings & Poetry with correspondence to the culture.
+  * Creative artistic content generation like Melodies & Progressions in Music, Paintings & Poetry.
 * Entertainment:
   * EIM's can be used in the entertainment industry to create more immersive experiences for users by understanding their emotional responses.
   * EIM's can be used in gaming to create more engaging games that respond to the player's emotions also create the dynamic gaming environment accordingly.
-  * EIM's can be also used to create environments and writing scripts in movies industry.
+  * EIM's can be also used to create ambience, environments and also in writing scripts in movies industry.
 
 Overall, EIM's can play an important role in developing machine ethics and morality by allowing machines to understand and respond to human emotions, which is an important component of ethical and moral decision-making. This could help ensure that machines act in accordance with human values and contribute to a more ethical and moral society. They have the potential to improve the way we interact with technology and create more empathetic and personalized experiences.
 
-## Human Mind, Vedic Astrology & Dynamical Systems
+**The Psychology Of Human Behaviour:** Human mind is one of the most important part of the entire human body which contains thoughts, imagination, memory, will power & sensation. Every human being has it's own personality. Some have similar personalities, some have not. The individual's mindset is responsible for it's own personality and behaviour. According to psychology, human mind is classified majorly into three categories. Conscious, subconscious & unconscious mind. All the events around us which we are experiencing currently which is also known as the "awareness", comes due to the conscious mind, all of our habits and routines which are formed due to the repetition processes of our feelings, experiences and task handling and completion are stored in the subconscious. The third type of category of mind is the most mysterious and powerful which is the unconscious mind. It operates beyond our conscious awareness. It is the part of our mind which contains thoughts, memories and emotions that we are not aware of, but that still influence our behaviour and feelings drastically. Conscious mind contains some short term memory in a very less amount. The content stored inside this type of mind can be changed easily. Subconscious mind has more long term memory than the conscious mind. It can store thoughts longer than the conscious mind which are difficult to change and involves practising something continuously, developing habits by doing continuous efforts, etc. in order to change the mindset. The unconscious mind has permanent memory which is almost impossible to be changed by any type of effort. It is the primary source of the human behaviour and personality. It is just like the default personality of any particular human being.
 
-Human mind is one of the most important part of the entire human body which contains thoughts, imagination, memory, will power & sensation. Every human being has it's own personality. Some have similar personalities, some have not. The individual's mindset is responsible for it's own personality and behaviour. Human mind is classified majorly into three categories. Conscious, subconscious & unconscious mind. All the events around us which we are experiencing currently which is also known as the "awareness", comes due to the conscious mind, all of our habits and routines which are formed due to the repetition processes of our feelings, experiences and task handling and completion are stored in the subconscious. The third type of category of mind is the most mysterious and powerful which is the unconscious mind. It operates beyond our conscious awareness. It is the part of our mind which contains thoughts, memories and emotions that we are not aware of, but that still influence our behaviour and feelings drastically. Conscious mind contains some short term memory in a very less amount. The content stored inside this type of mind can be changed easily. Subconscious mind has more long term memory than the conscious mind. It can store thoughts longer than the conscious mind which are difficult to change and involves practicing something continuously, developing habits by doing continous efforts, etc in order to change the mindset. The unconscious mind has permanent memory which can't be changed by any type of effort. It is the primary source of the human behaviour and personality. It is just like the default personality of any particular human being.
+**Plutchik's Wheel of Emotions:** Plutchik's Wheel of Emotions is a model developed by American psychologist Robert Plutchik, which describes eight primary emotions arranged in a circular pattern. The model suggests that these emotions are the basis for all other emotions that humans experience.
 
-Emotion Dynamics, melody progression example, comedy jokes example, momentum
+The eight primary emotions identified by Plutchik are joy, sadness, anger, fear, trust, disgust, surprise, and anticipation. Each emotion is represented by a color on the wheel, with joy being yellow, sadness being blue, anger being red, fear being black, trust being green, disgust being brown, surprise being purple, and anticipation being pink.
 
-In this presentation, Mr. Jon Miles explores the ways in which differential equations for physical energy transfer can be applied to modeling emotion dynamics, with a view toward application in health-care. Improving one's emotional well-being is based on reducing emotional impedance, and understanding how emotion flows through circuits can help in reducing the blockages to flow.
+![Plutchik's Wheel of Emotions](assets/Plutchik's%20Wheel%20of%20Emotions.png)
 
-Astrology is like the snapshot of our unconscious mind.
+Plutchik's model proposes that these primary emotions can combine to form secondary emotions. For example, the combination of joy and trust creates love, while the combination of fear and anger creates aggression. In total, Plutchik identified 24 secondary emotions that can arise from the combination of the primary emotions.
 
-Dynamical systems theory is oftenly used to study the relationship between the human mind and behaviour. As we know that the systems are classified mojorly into two categroies which are static systems and dynamic systems. The systems whose present output is only dependent on the input of the same time(present time) are known as the static systems or memoryless systems whereas the systems whose present output depends upon the present input as well as also on the past and/or the future input are termed as the dynamical systems. A dynamical system always must have memory with it. The human mind is a very complex dynamical system that evolves over time in responses to the various inputs from the environment. To understand this in simple words, let's imagine what will happen if human mind does not have any type of memory with it or it will act as a static system. What will be our experience in this case? How does it feel like? If it will be the case, then everything will be instantaneous for us. There is no happieness, no sadness no fear & no anger. There will be no emotions. There will be no experience of feeling anything due to the absence of memory. This will happen because our mind collects all the past experiences of our life as data in the memory and whenever will be a situation to deal, it extracts the information of the past experiences stored inside the memory, compares this information with the present input, and decides how to handle with and react in this situation. This task handling experience is stored again in the memory for the future processing.
+The wheel is useful for understanding how emotions are related to one another and how they can influence our behavior and actions. It can also be a useful tool for identifying and managing emotions, both in ourselves and in others.
+
+**Ancient Vedic Astrology:** Astrology is like the snapshot of our unconscious mind.
+
+* Houses(Bhava)
+* Constellations(Rashies)
+* Planets(Grahas)
+
+**Analogy of Dynamical Systems Theory:** Dynamical systems theory is oftenly used to study the relationship between the human mind and behaviour. As we know that the systems are classified mojorly into two categroies which are static systems and dynamic systems. The systems whose present output is only dependent on the input of the same time(present time) are known as the static systems or memoryless systems whereas the systems whose present output depends upon the present input as well as also on the past and/or the future input are termed as the dynamical systems. A dynamical system always must have memory with it. The human mind is a very complex dynamical system that evolves over time in responses to the various inputs from the environment. To understand this in simple words, let's imagine what will happen if human mind does not have any type of memory with it or it will act as a static system. What will be our experience in this case? How does it feel like? If it will be the case, then everything will be instantaneous for us. There is no happieness, no sadness no fear & no anger. There will be no emotions. There will be no experience of feeling anything due to the absence of memory. This will happen because our mind collects all the past experiences of our life as data in the memory and whenever will be a situation to deal, it extracts the information of the past experiences stored inside the memory, compares this information with the present input, and decides how to handle with and react in this situation. This task handling experience is stored again in the memory for the future processing.
 
 ## How Vedic Astrology Effects Human Mind?
 
 In dynamical systems theory, there is a very important term which is known as the initial condition of the system. In general, initial conditions are the values of the variables at the starting time of the simulation or experiment, and they are needed to solve the reccurence relation(difference equations) in discrete-time domain and differential equations in continuous-time domain to obtain the solution. In analogy with vedic astrology, the horoscope chart or the birth chart of an individual exactly works just like the initial condition of the emotional dynamical system of that individual.
+
+## Emotion Dynamics, melody progression example, comedy jokes example, momentum
+
+In this presentation, Mr. Jon Miles explores the ways in which differential equations for physical energy transfer can be applied to modeling emotion dynamics, with a view toward application in health-care. Improving one's emotional well-being is based on reducing emotional impedance, and understanding how emotion flows through circuits can help in reducing the blockages to flow.
 
 ## The Gateway Experience, Neural Oscillations(Brain Waves) & Vedic Astrology
 
 According to Robert Allan Monroe, Instead of supressing the left hemisphere, as is done in Hypnosis, or largely bypassing and ignoring it, as it done in Transedental Meditaion, BioFeedback teaches the left hemisphere first to visualize the desired result, and then to recognize the feeling associated with the experience of successful right hemisphere access to the specific lower cerebral cortex. Pain or pleasure or other areas, in the manner needed to produce the desired result.
 
 Overpowering logical vs emotional mind.  
-Saturn(Shani Dev) vs Moon(Chandra Dev).  
+Saturn(Shani Dev) vs Moon(Chandra Dev). 
+
+## Neural Oscillations
+## Sentiment Analysis
+## Reinforcement Learning
 
 # 2. Literature Review
 
@@ -113,6 +133,8 @@ Saturn(Shani Dev) vs Moon(Chandra Dev).
 
 # 3. Methodology
 
+* The actual human mind may contain more complex Non-Linear Time Varying Dynamical Systems but for simplicity and basic structure modelliing purpose we are considering it as a LTI System.
+* It is not the matter wheather the Astrology works for humans or not, but if we assume that it's work like this, then maybe we are able to simulate the emotional behaviour in the machines.
 * Modelling of Emotion Dynamics
 * Differential Equations of Emotions
 * Laplace Transform
@@ -149,10 +171,12 @@ flowchart TB
   end
 ```
 
-# 4. Implementation
+# 4. Implementation & Planned Experiments
 Emoji Use
 
-# 5. Conclusion
+# 5. Conclusion & Outlook
+
+## Acknowledgement
 
 ## References
 
@@ -163,6 +187,8 @@ Emoji Use
 - [A Concise History of Hindu Astrology and Indian Spirituality](https://www.researchgate.net/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality)
 - [Astrology](https://en.wikipedia.org/wiki/Astrology)
 - [Astrology and Science](https://en.wikipedia.org/wiki/Astrology_and_science)
+- [The Equations of Planetary Motion and thier Numerical Solution](http://www.wiu.edu/cas/mathematics_and_philosophy/graduate/equations-planetary-motion.pdf)
+- [Dynamic Systems & Control](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Dynamic_Systems_and_Control_(Dahleh_Dahleh_and_Verghese)/10%3A_Discrete-Time_Linear_State-Space_Models/10.01%3A_Time-Varying_Linear_Models)
 - [Barnum Effect](https://en.wikipedia.org/wiki/Barnum_effect)
 - [Consciousness](https://en.wikipedia.org/wiki/Consciousness)
 - [Subconscious](https://en.wikipedia.org/wiki/Subconscious)
@@ -171,6 +197,7 @@ Emoji Use
 - [Artificial Consciousness](https://en.wikipedia.org/wiki/Artificial_consciousness)
 - [Analogy & Duality](http://milesresearch.com/pdf/Analogy-and-Duality.pdf)
 - [Emotion Dynamics](http://milesresearch.com/pdf/Emotion-Dynamics.pdf)
+- [Plutchik's Wheel of Emotions](https://en.wikipedia.org/wiki/Robert_Plutchik)
 - [Neural Oscillations(Brain Waves)](https://en.wikipedia.org/wiki/Neural_oscillation)
 - [Behavioral Neuroscience](https://en.wikipedia.org/wiki/Behavioral_neuroscience)
 - [Emotion](https://en.wikipedia.org/wiki/Emotion)
@@ -214,3 +241,11 @@ Emoji Use
 - [Neural Turing Machine(NTM)](https://en.wikipedia.org/wiki/Neural_Turing_Machine)
 - [Bidirectional Encoder Representations from Transformers(BERT)](https://en.wikipedia.org/wiki/BERT_(Language_model))
 - [Generative Pre-Trained Tranformer-3(GPT-3)](https://en.wikipedia.org/wiki/GPT-3)
+- [Continous Time Fourier Series(CTFS)](https://en.wikipedia.org/wiki/Fourier_series)
+- [Discrete Time Fourier Series(DTFS)](https://en.wikipedia.org/wiki/Discrete_Fourier_series)
+- [Continous Time Fourier Transform(CTFT)](https://en.wikipedia.org/wiki/Fourier_transform)
+- [Discrete Time Fourier Transform(DTFT)](https://en.wikipedia.org/wiki/Discrete-time_Fourier_transform)
+- [Laplace Transform(LT)](https://en.wikipedia.org/wiki/Laplace_transform)
+- [Z Transform(ZT)](https://en.wikipedia.org/wiki/Z-transform)
+- [Discrete Fourier Transform(DFT)](https://en.wikipedia.org/wiki/Discrete_Fourier_transform)
+- [Fast Fourier Transform(FFT)](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
