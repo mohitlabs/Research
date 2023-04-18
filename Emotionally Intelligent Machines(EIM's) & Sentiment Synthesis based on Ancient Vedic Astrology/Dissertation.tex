@@ -1,23 +1,61 @@
-\documentclass[12pt, a4paper, twocolumn, twoside]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{amsmath, cite, enumerate}
-\usepackage{amssymb, pdfpages}
-\usepackage{makeidx}
-\usepackage{graphicx}
+\documentclass[12pt, a4paper]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{multicol}
+\usepackage{times}
+\usepackage{authblk}
 \usepackage[hidelinks]{hyperref}
-\title{Emotionally Intelligent Machines(EIM's) \& Sentiment Synthesis based on Ancient Vedic Astrology}
+\renewenvironment{abstract}
+{\small
+	\begin{center}
+		\bfseries \abstractname\vspace{-.5em}\vspace{0pt}
+	\end{center}
+	\list{}{
+		\setlength{\leftmargin}{0mm}
+		\setlength{\rightmargin}{\leftmargin}
+	}
+	\item\relax}
+{\endlist}
+\title{Emotionally Intelligent Machines \& Sentiment Synthesis based on Ancient Vedic Astrology}
 \author{Mohit Singh}
+\affil{College of Computing Sciences \& Information Technology\\{Teerthanker Mahaveer University}\\{Moradabad, Uttar Pradesh,\\{India}}}
+\affil{\href{mailto:mohitsingh5.ms@gmail.com}{mohitsingh5.ms@gmail.com}}
+\affil{DOI:}
 \begin{document}
 	\maketitle
+	\hrule
 	\begin{abstract}
-		After brain researchers have recognized that emotions are crucial for human and animal intelligence, Artificial Intelligence researchers have also started to acknowledge the importance of emotions in the design of intelligent machines \cite{atmos13081292}. In this paper, we will discuss about the Emotionally Intelligent Machines(EIM's) which is the new field of research in Artificial Intelligence but it has a great potential to do immense good, however the technology can be misused but it is up to the consumers of this technology who will decide whether the it will be used for good or for evil \cite{doi:10.1080/14755610.2022.2093234}. Also, Astrology has always been a controversial topic and is completely depends upto the personal faiths and beliefs of an individual. Apart from that, this paper describes that how Emotionally\cite{unknown} Intelligent Machines(EIM's) \& Sentiment Synthesis Systems can be developed by using the concept of Ancient Vedic Astrology.\cite{article}
+		\textbf{\input{assets/Abstract}}
 	\end{abstract}
-	\section{Introduction}
-	\section{Related Work \& Review of Literature}
-	\section{Methodology}
-	\section{Implementation \& Planned Experiments}
-	\section{Conclusion \& Outlook}
-	\bibliography{Citations}
+	\textbf{Keywords: }
+	\input{assets/Keywords}
+	\newline
+	\hrule
+	\begin{multicols}{2}
+		\section{Introduction}
+		\input{assets/Introduction}
+		\section{Research Model \& Hypothesis}
+		\input{assets/Hypothesis}
+		\section{Related Work \& Review of Literature}
+		\input{assets/LiteratureReview}
+		\section{Methodology}
+		\input{assets/Methodology}
+		\section{Implementation \& Planned Experiments}
+		\input{assets/Implementation}
+		\section{Conclusion \& Outlook}
+		\input{Conclusion}
+	\end{multicols}
+	\hrule
+	\centering
+	\section*{Summary}
+	\input{assets/Summary}
+	\section*{Acknowledgements}
+	\input{assets/Acknowledgements}
+	\newline
+	\hrule
+	\bibliography{assets/Citations}
 	\bibliographystyle{acm}
+	\section*{Annotated Bibliography}
+	\appendix
+	\section*{Appendix}
+	\input{assets/Appendix}
 \end{document}
