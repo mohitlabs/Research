@@ -129,6 +129,7 @@ Saturn(Shani Dev) vs Moon(Chandra Dev).
 |  19  | [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/doi/epdf/10.1073/pnas.1517384113) |  |  | 2016 |
 |  20  | [Rule-Based Sentiment Analysis in Narrow Domain: Detecting Sentiment in Daily Horoscopes Using Sentiscope](https://aclanthology.org/W12-5312.pdf) |  |  | 2012 |
 |  21  | [Children’s Emotional Development Is Built into the Architecture of Their Brains](https://developingchild.harvard.edu/wp-content/uploads/2004/04/Childrens-Emotional-Development-Is-Built-into-the-Architecture-of-Their-Brains.pdf) |  |  | 2004 |
+|  22  | [The Unconscious Mind and Planetary Influences on the Human Unconscious Mind and Personality](https://www.researchgate.net/profile/Aditya-Pareek-5/publication/369657531_The_Unconscious_Mind_and_Planetary_Influences_on_the_Human_Unconscious_Mind_and_Personality/links/64267047a1b72772e43d6cb7/The-Unconscious-Mind-and-Planetary-Influences-on-the-Human-Unconscious-Mind-and-Personality.pdf) |  |  | 2023 |
 
 # 4. Methodology
 
