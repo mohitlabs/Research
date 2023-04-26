@@ -1,9 +1,17 @@
 \documentclass[12pt, a4paper]{article}
 \usepackage[margin=0.5in]{geometry}
 \usepackage{multicol}
-\usepackage{times}
 \usepackage{authblk}
 \usepackage[hidelinks]{hyperref}
+\usepackage{graphicx}
+\graphicspath{ {assets/img/} }
+\usepackage{float}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage{sanskrit}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\newfontfamily{\devanagarifont}[Script=Devanagari]{Lohit Devanagari}
 \renewenvironment{abstract}
 {\small
 	\begin{center}
@@ -19,9 +27,9 @@
 \author[1]{Mohit Singh}
 \author[2]{Dr. Priyank Singhal}
 \author[3]{Mr. Vikas Kuchhal}
-\affil{College of Computing Sciences \& Information Technology\\Teerthanker Mahaveer University\\Moradabad, Uttar Pradesh\\India}
+\affil[1,2,3]{College of Computing Sciences \& Information Technology\\Teerthanker Mahaveer University\\Moradabad, Uttar Pradesh\\India}
 \affil[1]{\href{mailto:mohit.tca2212005@tmu.ac.in}{mohit.tca2212005@tmu.ac.in}}
-\affil{DOI:}
+\affil[1,2,3]{DOI:}
 \begin{document}
 	\maketitle
 	\hrule

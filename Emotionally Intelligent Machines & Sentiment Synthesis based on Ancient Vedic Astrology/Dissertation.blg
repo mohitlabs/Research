@@ -3,48 +3,56 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Dissertation.aux
 The style file: acm.bst
 Database file #1: assets/Citations.bib
-Warning--entry type for "unknown" isn't style-file defined
---line 58 of file assets/Citations.bib
-Warning--empty journal in article
-You've used 6 entries,
+You're missing a field name---line 89 of file assets/Citations.bib
+ :  
+ :  %number = {},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 104 of file assets/Citations.bib
+ :  
+ :  %number = {},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty year in BrihatParasharHoraShastraVol1
+You've used 4 entries,
             2253 wiz_defined-function locations,
-            565 strings with 4736 characters,
-and the built_in function-call counts, 1734 in all, are:
-= -- 163
-> -- 72
+            552 strings with 4560 characters,
+and the built_in function-call counts, 1234 in all, are:
+= -- 112
+> -- 58
 < -- 0
-+ -- 32
-- -- 24
-* -- 140
-:= -- 293
-add.period$ -- 17
-call.type$ -- 6
-change.case$ -- 30
++ -- 25
+- -- 20
+* -- 107
+:= -- 212
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 21
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 52
-empty$ -- 145
-format.name$ -- 24
-if$ -- 351
+cite$ -- 5
+duplicate$ -- 39
+empty$ -- 99
+format.name$ -- 20
+if$ -- 245
 int.to.chr$ -- 0
-int.to.str$ -- 6
+int.to.str$ -- 4
 missing$ -- 5
-newline$ -- 32
-num.names$ -- 12
-pop$ -- 27
+newline$ -- 23
+num.names$ -- 8
+pop$ -- 22
 preamble$ -- 1
-purify$ -- 24
+purify$ -- 18
 quote$ -- 0
-skip$ -- 33
+skip$ -- 21
 stack$ -- 0
-substring$ -- 120
-swap$ -- 11
+substring$ -- 73
+swap$ -- 8
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 24
+type$ -- 14
 warning$ -- 1
-while$ -- 17
-width$ -- 7
-write$ -- 58
-(There were 2 warnings)
+while$ -- 11
+width$ -- 5
+write$ -- 41
+(There were 2 error messages)
