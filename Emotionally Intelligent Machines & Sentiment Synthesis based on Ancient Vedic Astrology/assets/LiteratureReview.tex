@@ -1,3 +1,6 @@
+Going beyond sentiment analysis or developing such AI systems who have their own sentiments is currently not studied. However, several examples can be found where different methods are used to develop such systems that are capable of responding emotionally after analysing the sentiments from the input, such as the \\\\\\\\
+but working of all these EAI systems which are present currently is based on the logic not on the intution. If it may possible for us to make such an EAI system which works on the basis of the logic as well as on the intution also, then the huge gaps and mismatches which are currently present in between interaction of the human and computers can be fulfilled.
+
 \subsection{What is Artificial Intelligence?}
 Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to perform tasks that normally require human intelligence such as learning, problem-solving, decision-making, perception, language understanding, and more\cite{ISSN-2456-2165}. AI systems use algorithms and statistical models to analyze data, recognize patterns, and make predictions, without explicit instructions from human operators.
 
@@ -49,18 +52,58 @@ Some of the common applications of EIM's include:
 	\item \textbf{Media \& Communication:} EAI has a huge potential to do great in the field of media as it can be used as a NEWS anchor or an interactive agent which can communicate with their listeners emoitionally.
 	\item \textbf{Entertainment:} Emotionally Intelligent Machines can be used in the entertainment industry to create more immersive experiences for users by understanding their emotional responses, in gaming industry to create more engaging games that respond to the player's emotions also create the dynamic gaming environment accordingly, in movies industry to create ambience, environments and also in writing scripts.
 \end{itemize}
-\subsection{Convergence, Divergence and Belief Systems of AI}
-\subsubsection{Stability and Unstability}
+\subsection{Convergence, Divergence and Belief Systems of Human Mind}
+Belief system is a topic on which the more we talk, the less the words. This is what's the only reason due to which similarities and differences exists between the thoughts and mentalities of different people. This is what is responsible for influencing, changing, and strengthening our emotions.
+
+Believing in something is called a belief system, and not believing in something is also a belief system in itself. Apart from this, if someone says 'I believe' and another says 'I don't believe,' one thing is common in both statements, and that is both the persons are in doubtful state that's why they are using the word 'Belive'. Neither of the two persons will ever say, 'I believe that I have two hands' or 'I believe that the Taj Mahal is located in Agra' because they know that these two things exists in reality. The word 'Belive' is always be used in the doubtful situations. The word 'believe' is used to justify whether a doubtful statement is a truth or a lie.
+
+Now, we try to understand the belief system from a new perspective by momentarily setting aside all the discussions we have had so far about beliefs and belief systems. Consider the equation \ref{eq:1}, it is the example of a geometric series that converges absolutely. This infinite series is related to some philosophical questions considered in antiquity, particularly to Zeno's paradoxes\cite{enwiki:1123380424}.
+\[1 = \dfrac{1}{2} + \dfrac{1}{4} + \dfrac{1}{8} + \dfrac{1}{16} + \dfrac{1}{32} + ...\]
+\begin{equation}\label{eq:1}
+	\implies\boxed{1 = \sum\limits_{n = 1}^\infty\dfrac{1}{2^n}}
+\end{equation}
+
+Now, consider the equation \ref{eq:2} which is an infinite divergent series also known as the Ramanujan summation. Ramanujan summation is a technique invented by the mathematician Srinivasa Ramanujan for assigning a value to divergent infinite series. Although the Ramanujan summation of a divergent series is not a sum in the traditional sense, it has properties that make it mathematically useful in the study of divergent infinite series, for which conventional summation is undefined\cite{enwiki:1148245424}. And in mathematics, whenever a value is undefined. Then it means that we can consider or assign any value on it's place. However, in such situations, it is best to consider a particular value that seems to be in accordance with the situation, without considering any other value, which is the most appropriate approach.
+\[-\dfrac{1}{12} = 1 + 2 + 3 + 4 + 5 + ...\]
+\begin{equation}\label{eq:2}
+	\implies\boxed{-\dfrac{1}{12} = \sum\limits_{n = 1}^\infty n}
+\end{equation}
+
 \subsection{Conscious, Subconscious \& Unconscious of Aritificial Intelligence}
+Human mind is one of the most important part of the entire human body which contains thoughts, imagination, memory, will power \& sensation. Every human being has it's own personality. Some have similar personalities, some have not. The individual's mindset is responsible for it's own personality and behaviour.
+
+According to psychology, human mind is classified majorly into three categories. Conscious, subconscious \& unconscious mind. All the events around us which we are experiencing at the current instant which is also known as the "awareness", comes due to the conscious mind whereas all of our habits and routines which are formed due to the repetition of different task and our experiences are stored in the subconscious. 
+
+The third type of category of mind is the most mysterious and powerful which is the unconscious mind. It operates beyond our conscious awareness. It is the part of our mind which contains thoughts, memories and emotions that we are not aware of, but that still influence our behaviour and feelings drastically. Conscious mind contains some short term memory in a very less amount. The content stored inside this type of mind can be changed easily. Subconscious mind has more long term memory than the conscious mind. It can store thoughts longer than the conscious mind which are difficult to change and involves practising something continuously, developing habits by doing continuous efforts, etc. in order to change the mindset. The unconscious mind has permanent memory which is almost impossible to be changed by any type of effort. It is the primary source of the human behaviour and personality. It is just like the default personality of any particular human being\cite{article}.
 \subsubsection{Recurrent Neural Networks as Consciousness of AI}
 \subsubsection{Feed Forward Networks as Subconscious of AI}
 \subsubsection{How to design the Unconscious of AI?}
+\cite{article}
 \subsection{Emotion Dynamics}
+\begin{center}
+	\begin{circuitikz}
+		\draw (0,0) to[short] (0,2);
+		\draw (0,2) to[L=$L(Craving)$, i>_=$i(t)$] (3,2);
+		\draw (3,2) to[R=$R(Anger)$, i>_=$i(t)$] (6,2);
+		\draw (6,2) to[C=$C(Attachment)$, i>_=$i(t)$] (9,2);
+		\draw (9,2) to[short] (9,0);
+		\draw (9,0) to[vsource, v=$v(t)(Will Power)$] (0,0);
+	\end{circuitikz}
+\end{center}
+\begin{equation}
+	\boxed{v(t) = L\frac{di(t)}{dt} + Ri(t) + \frac{1}{C}\int i(t)dt}
+\end{equation}
+\begin{equation}
+	\boxed{F[n] = F[n-1] + F[n-2]}
+\end{equation}
 \subsection{The Butterfly Effect \& Chaos Theory}
 Richard A. Anthes in 2022 by his paper "Predictability \& Predictions" showed his experiences with predictability theory and weather predictions began as an undergraduate student at the University of Wisconsin in Madison in the early 1960s. His interest in numerical simulations led to the development of a simple nonlinear one-dimensional gravity wave model and later a nonlinear, baroclinic, three-dimensional model of the tropical cyclone. His experiences highlighted the challenges of numerical and physical instabilities in weather prediction models \cite{atmos13081292}. \cite{encyclopedia2030084}
+In chaos theory, the butterfly effect is the sensitive dependence on initial conditions in which a small change in one state of a deterministic nonlinear system can result in large differences in a later state.
 \subsection{Quantum Level V/S Cosmic Level}
 \subsubsection{Microscopic V/S Macroscopic}
 \subsection{Plutchik's Wheel of Emotions}
+Plutchik proposed a psychoevolutionary classification approach for general emotional responses.[2][3] He considered there to be eight primary emotions—anger, fear, sadness, disgust, surprise, anticipation, trust, and joy.
+He also created a wheel of emotions to illustrate different emotions. Plutchik first proposed his cone-shaped model (3D) or the wheel model (2D) in 1980 to describe how emotions were related \cite{enwiki:1136521972}.
 \begin{figure}[H]
 	\includegraphics[width=\columnwidth, keepaspectratio]{Plutchik'sWheelofEmotions.png}
 	\caption{Plutchik's Wheel of Emotions}

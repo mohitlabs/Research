@@ -3,56 +3,61 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Dissertation.aux
 The style file: acm.bst
 Database file #1: assets/Citations.bib
-You're missing a field name---line 89 of file assets/Citations.bib
+Repeated entry---line 52 of file assets/Citations.bib
+ : @article{article
+ :                 ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 93 of file assets/Citations.bib
  :  
  :  %number = {},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 104 of file assets/Citations.bib
+You're missing a field name---line 108 of file assets/Citations.bib
  :  
  :  %number = {},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
+Warning--empty journal in article
 Warning--empty year in BrihatParasharHoraShastraVol1
-You've used 4 entries,
+You've used 8 entries,
             2253 wiz_defined-function locations,
-            552 strings with 4560 characters,
-and the built_in function-call counts, 1234 in all, are:
-= -- 112
-> -- 58
+            567 strings with 5819 characters,
+and the built_in function-call counts, 2112 in all, are:
+= -- 198
+> -- 91
 < -- 0
-+ -- 25
-- -- 20
-* -- 107
-:= -- 212
-add.period$ -- 12
-call.type$ -- 4
-change.case$ -- 21
++ -- 38
+- -- 30
+* -- 143
+:= -- 363
+add.period$ -- 26
+call.type$ -- 8
+change.case$ -- 38
 chr.to.int$ -- 0
-cite$ -- 5
-duplicate$ -- 39
-empty$ -- 99
-format.name$ -- 20
-if$ -- 245
+cite$ -- 10
+duplicate$ -- 71
+empty$ -- 181
+format.name$ -- 30
+if$ -- 432
 int.to.chr$ -- 0
-int.to.str$ -- 4
-missing$ -- 5
-newline$ -- 23
-num.names$ -- 8
-pop$ -- 22
+int.to.str$ -- 8
+missing$ -- 6
+newline$ -- 45
+num.names$ -- 16
+pop$ -- 51
 preamble$ -- 1
-purify$ -- 18
+purify$ -- 31
 quote$ -- 0
-skip$ -- 21
+skip$ -- 44
 stack$ -- 0
-substring$ -- 73
-swap$ -- 8
+substring$ -- 92
+swap$ -- 15
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 14
-warning$ -- 1
-while$ -- 11
-width$ -- 5
-write$ -- 41
-(There were 2 error messages)
+type$ -- 30
+warning$ -- 2
+while$ -- 19
+width$ -- 9
+write$ -- 84
+(There were 3 error messages)
