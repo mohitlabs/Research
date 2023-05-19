@@ -5,7 +5,7 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{cite}
 \usepackage{graphicx}
-\graphicspath{ {assets/img/} }
+\graphicspath{ {assets/} }
 \usepackage{float}
 \usepackage{amsmath}
 \usepackage[siunitx, RPvoltages, american]{circuitikz}
@@ -47,63 +47,71 @@
 	\maketitle
 	\hrule
 	\begin{abstract}
-		\textbf{\input{assets/Abstract}}
+		\textbf{\input{Abstract}}
 	\end{abstract}
 	\textbf{Keywords: }
-	\input{assets/Keywords}
+	\input{Keywords}
 	\newline
 	\hrule
 	\begin{multicols}{2}
 		\section{Introduction}
-		\input{assets/Introduction}
+		\input{Introduction}
 		\section{Research Model \& Hypothesis}
-		\input{assets/Hypothesis}
+		\input{Hypothesis}
 		\section{Related Work \& Review of Literature}
-		\input{assets/LiteratureReview}
+		\input{LiteratureReview}
 		\section{Theoretical Framework}
 		\subsection{What is Artificial Intelligence?}
-		\input{assets/chapters/ArtificialIntelligence}
+		\input{TheoreticalFramework/ArtificialIntelligence}
 		\subsection{What is Emotional Intelligence?}
-		\input{assets/chapters/EmotionalIntelligence}
+		\input{TheoreticalFramework/EmotionalIntelligence}
 		\subsection{What is Emotional Artificial Intelligence?}
-		\input{assets/chapters/EmotionalArtificialIntelligence}
+		\input{TheoreticalFramework/EmotionalArtificialIntelligence}
 		\subsection{Why Truly Intelligent Machines Need Emotions?}
-		\input{assets/chapters/WhyTrulyIntelligentMachinesNeedEmotions}
-		\subsection{Convergence, Divergence and Belief Systems}
-		\input{assets/chapters/ConvergenceDivergenceAndBeliefSystems}
-		\subsection{Conscious, Subconscious \& Unconscious of AI}
-		\input{assets/chapters/ConsciousSubconsciousUnconsciousofAI}
-		\subsection{Logical Thinking \& Intuition}
-		\input{assets/chapters/LogicAndIntuition}
-		\subsection{Biology behind Emotions}
-		\subsection{Emotion Dynamics}
-		\input{assets/chapters/EmotionDynamics}
-		\subsection{Butterfly Effect \& Chaos Theory}
-		\input{assets/chapters/ButterflyEffectChaosTheory}
-		\subsection{Quantum Level V/S Cosmic Level}
-		\input{assets/chapters/QuantumLevelCosmicLevel}
+		\input{TheoreticalFramework/WhyTrulyIntelligentMachinesNeedEmotions}
+		\subsection{Cognitive Psychology}
+		\input{TheoreticalFramework/CognitivePsychology}
 		\subsection{Plutchik's Wheel of Emotions}
-		\input{assets/chapters/Plutchik'sWheelofEmotions}
-		\subsection{Ancient Vedic Astrology on Human Emotions}
-		\input{assets/chapters/AncientVedicAstrology}
-		\section{Methodology}
-		\input{assets/Methodology}
-		\section{Implementation \& Planned Experiments}
-		\input{assets/Implementation}
+		\input{TheoreticalFramework/Plutchik'sWheelofEmotions}
+		\subsection{Logical Thinking V/S Intuitive Thinking}
+		\input{TheoreticalFramework/LogicAndIntuition}
+		\subsection{Biology of Sentiments}
+		\input{TheoreticalFramework/SentimentBiology}
+		\subsection{Emotion Dynamics}
+		\input{TheoreticalFramework/EmotionDynamics}
+		\subsection{Butterfly Effect \& Chaos Theory}
+		\input{TheoreticalFramework/ButterflyEffectChaosTheory}
+		\subsection{Long-Short Term Memory(LSTM)}
+		\input{TheoreticalFramework/LSTM}
+		\subsection{Ancient Vedic Astrology}
+		\input{TheoreticalFramework/AncientVedicAstrology}
+		\section{Analysis \& Discussion}
+		\subsection{LSTM, The Conscious \& Subconscious of AI}
+		\subsection{How to design the Unconscious of AI?}
+		\subsection{Cognitive Psychology \& Dynamical Systems}
+		\input{AnalysisAndDiscussion/PsychologyAndDynamicalSystems}
+		\subsection{Convergence, Divergence And Belief Systems}
+		\input{AnalysisAndDiscussion/ConvergenceDivergenceAndBeliefSystems}
+		\subsection{Quantum Level V/S Cosmic Level}
+		\input{AnalysisAndDiscussion/QuantumLevelCosmicLevel}
+		\subsection{Vedic Astrology \& Dynamical Systems}
+		\input{AnalysisAndDiscussion/VedicAstrologyDynamicalSystems}
+		\subsection{Artchitecture of EIM}
+		\input{AnalysisAndDiscussion/EIMArchitecture}
 		\section{Conclusion \& Outlook}
-		\input{assets/Conclusion}
+		\input{Conclusion}
 	\end{multicols}
 	\hrule
 	\centering
 	\section*{Summary}
-	\input{assets/Summary}
+	\input{Summary}
 	\section*{Acknowledgements}
-	\input{assets/Acknowledgements}
+	\input{Acknowledgements}
 	\newline
 	\hrule
-	\bibliography{assets/Citations}
+	\bibliography{Citations}
 	\bibliographystyle{acm}
 	\appendix
 	\section*{Appendix}
-	\input{assets/Appendix}
+	\input{Appendix}
 \end{document}

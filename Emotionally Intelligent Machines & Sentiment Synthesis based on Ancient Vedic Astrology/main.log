@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.2)  2 MAY 2023 19:16
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.5.2)  18 MAY 2023 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1025,12 +1025,42 @@ Package fontspec Info: Font family 'LohitDevanagari(0)' created for font
 LaTeX Info: Redefining \rmfamily on input line 19.
 LaTeX Info: Redefining \sffamily on input line 19.
 LaTeX Info: Redefining \ttfamily on input line 19.
-LaTeX Info: Redefining \rmfamily on input line 74.
-LaTeX Info: Redefining \sffamily on input line 74.
-LaTeX Info: Redefining \ttfamily on input line 74.
-LaTeX Info: Redefining \rmfamily on input line 82.
-LaTeX Info: Redefining \sffamily on input line 82.
-LaTeX Info: Redefining \ttfamily on input line 82.
+LaTeX Info: Redefining \rmfamily on input line 92.
+LaTeX Info: Redefining \sffamily on input line 92.
+LaTeX Info: Redefining \ttfamily on input line 92.
+LaTeX Info: Redefining \rmfamily on input line 102.
+LaTeX Info: Redefining \sffamily on input line 102.
+LaTeX Info: Redefining \ttfamily on input line 102.
+LaTeX Info: Redefining \rmfamily on input line 113.
+LaTeX Info: Redefining \sffamily on input line 113.
+LaTeX Info: Redefining \ttfamily on input line 113.
+LaTeX Info: Redefining \rmfamily on input line 121.
+LaTeX Info: Redefining \sffamily on input line 121.
+LaTeX Info: Redefining \ttfamily on input line 121.
+LaTeX Info: Redefining \rmfamily on input line 129.
+LaTeX Info: Redefining \sffamily on input line 129.
+LaTeX Info: Redefining \ttfamily on input line 129.
+LaTeX Info: Redefining \rmfamily on input line 137.
+LaTeX Info: Redefining \sffamily on input line 137.
+LaTeX Info: Redefining \ttfamily on input line 137.
+LaTeX Info: Redefining \rmfamily on input line 145.
+LaTeX Info: Redefining \sffamily on input line 145.
+LaTeX Info: Redefining \ttfamily on input line 145.
+LaTeX Info: Redefining \rmfamily on input line 153.
+LaTeX Info: Redefining \sffamily on input line 153.
+LaTeX Info: Redefining \ttfamily on input line 153.
+LaTeX Info: Redefining \rmfamily on input line 163.
+LaTeX Info: Redefining \sffamily on input line 163.
+LaTeX Info: Redefining \ttfamily on input line 163.
+LaTeX Info: Redefining \rmfamily on input line 171.
+LaTeX Info: Redefining \sffamily on input line 171.
+LaTeX Info: Redefining \ttfamily on input line 171.
+LaTeX Info: Redefining \rmfamily on input line 184.
+LaTeX Info: Redefining \sffamily on input line 184.
+LaTeX Info: Redefining \ttfamily on input line 184.
+LaTeX Info: Redefining \rmfamily on input line 192.
+LaTeX Info: Redefining \sffamily on input line 192.
+LaTeX Info: Redefining \ttfamily on input line 192.
 )
 \openout1 = `main.aux'.
 
@@ -1190,8 +1220,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 LaTeX Info: Redefining \rmfamily on input line 41.
 LaTeX Info: Redefining \sffamily on input line 41.
 LaTeX Info: Redefining \ttfamily on input line 41.
-File: assets/img//PWOEExpressions.png Graphic file (type bmp)
-<assets/img//PWOEExpressions.png>
+File: assets//PWOEExpressions.png Graphic file (type bmp)
+<assets//PWOEExpressions.png>
 
 Overfull \hbox (18.0pt too wide) in paragraph at lines 43--44
 [][] 
@@ -1203,93 +1233,190 @@ Overfull \hbox (18.0pt too wide) in paragraph at lines 43--44
 LaTeX Info: Redefining \rmfamily on input line 1.
 LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
-LaTeX Info: Redefining \rmfamily on input line 30.
-LaTeX Info: Redefining \sffamily on input line 30.
-LaTeX Info: Redefining \ttfamily on input line 30.
-LaTeX Info: Redefining \rmfamily on input line 32.
-LaTeX Info: Redefining \sffamily on input line 32.
-LaTeX Info: Redefining \ttfamily on input line 32.
+LaTeX Info: Redefining \rmfamily on input line 20.
+LaTeX Info: Redefining \sffamily on input line 20.
+LaTeX Info: Redefining \ttfamily on input line 20.
+LaTeX Info: Redefining \rmfamily on input line 22.
+LaTeX Info: Redefining \sffamily on input line 22.
+LaTeX Info: Redefining \ttfamily on input line 22.
+LaTeX Info: Redefining \rmfamily on input line 27.
+LaTeX Info: Redefining \sffamily on input line 27.
+LaTeX Info: Redefining \ttfamily on input line 27.
+LaTeX Info: Redefining \rmfamily on input line 29.
+LaTeX Info: Redefining \sffamily on input line 29.
+LaTeX Info: Redefining \ttfamily on input line 29.
+LaTeX Info: Redefining \rmfamily on input line 31.
+LaTeX Info: Redefining \sffamily on input line 31.
+LaTeX Info: Redefining \ttfamily on input line 31.
+LaTeX Info: Redefining \rmfamily on input line 33.
+LaTeX Info: Redefining \sffamily on input line 33.
+LaTeX Info: Redefining \ttfamily on input line 33.
+LaTeX Info: Redefining \rmfamily on input line 35.
+LaTeX Info: Redefining \sffamily on input line 35.
+LaTeX Info: Redefining \ttfamily on input line 35.
+LaTeX Info: Redefining \rmfamily on input line 37.
+LaTeX Info: Redefining \sffamily on input line 37.
+LaTeX Info: Redefining \ttfamily on input line 37.
+LaTeX Info: Redefining \rmfamily on input line 41.
+LaTeX Info: Redefining \sffamily on input line 41.
+LaTeX Info: Redefining \ttfamily on input line 41.
+LaTeX Info: Redefining \rmfamily on input line 43.
+LaTeX Info: Redefining \sffamily on input line 43.
+LaTeX Info: Redefining \ttfamily on input line 43.
+LaTeX Info: Redefining \rmfamily on input line 46.
+LaTeX Info: Redefining \sffamily on input line 46.
+LaTeX Info: Redefining \ttfamily on input line 46.
+LaTeX Info: Redefining \rmfamily on input line 48.
+LaTeX Info: Redefining \sffamily on input line 48.
+LaTeX Info: Redefining \ttfamily on input line 48.
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [2] (./assets/Abstract.tex) (./assets/Keywords.tex)
+ [2] (./Abstract.tex) (./Keywords.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 52--55
 
  []
 
-(./assets/Introduction.tex) (./assets/Hypothesis.tex) [3]
-(./assets/LiteratureReview.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--63
+(./Introduction.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--63
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--63
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
-(./assets/chapters/ArtificialIntelligence.tex)
-(./assets/chapters/EmotionalIntelligence.tex)
-(./assets/chapters/EmotionalArtificialIntelligence.tex) [4]
+
+Underfull \hbox (badness 6592) in paragraph at lines 6--7
+[]\TU/TimesNewRoman(0)/m/n/12 For half a century, artificial-intelligence re-
+ []
+
+[3]) (./Hypothesis.tex) (./LiteratureReview.tex)
+(./TheoreticalFramework/ArtificialIntelligence.tex [4])
+(./TheoreticalFramework/EmotionalIntelligence.tex)
+(./TheoreticalFramework/EmotionalArtificialIntelligence.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 70--70
 []\TU/TimesNewRoman(0)/b/n/14.4 Why Truly Intelligent Machines
  []
 
-(./assets/chapters/WhyTrulyIntelligentMachinesNeedEmotions.tex [5])
-(./assets/chapters/ConvergenceDivergenceAndBeliefSystems.tex) [6]
-(./assets/chapters/ConsciousSubconsciousUnconsciousofAI.tex)
-(./assets/chapters/LogicAndIntuition.tex)
-(./assets/chapters/EmotionDynamics.tex)
-(./assets/chapters/ButterflyEffectChaosTheory.tex) [7]
-(./assets/chapters/QuantumLevelCosmicLevel.tex)
-(./assets/chapters/Plutchik'sWheelofEmotions.tex
-File: assets/img//Plutchik'sWheelofEmotions.png Graphic file (type bmp)
-<assets/img//Plutchik'sWheelofEmotions.png>
-File: assets/img//PWOEEnglish.pdf Graphic file (type pdf)
-<use assets/img//PWOEEnglish.pdf>
-File: assets/img//PWOEHindi.pdf Graphic file (type pdf)
-<use assets/img//PWOEHindi.pdf>
- [8])
-(./assets/chapters/AncientVedicAstrology.tex
-LaTeX Info: Redefining \rmfamily on input line 10.
-LaTeX Info: Redefining \sffamily on input line 10.
-LaTeX Info: Redefining \ttfamily on input line 10.
-LaTeX Info: Redefining \rmfamily on input line 13.
-LaTeX Info: Redefining \sffamily on input line 13.
-LaTeX Info: Redefining \ttfamily on input line 13.
-) (./assets/Methodology.tex
-File: assets/img//PWOEEmoji.png Graphic file (type bmp)
-<assets/img//PWOEEmoji.png>
+(./TheoreticalFramework/WhyTrulyIntelligentMachinesNeedEmotions.tex [5])
+(./TheoreticalFramework/CognitivePsychology.tex
+File: assets//FreudIcebergTheory.png Graphic file (type bmp)
+<assets//FreudIcebergTheory.png>
+ [6])
+(./TheoreticalFramework/Plutchik'sWheelofEmotions.tex
+File: assets//Plutchik'sWheelofEmotions.png Graphic file (type bmp)
+<assets//Plutchik'sWheelofEmotions.png>
 )
-(./assets/Implementation.tex) (./assets/Conclusion.tex) [9]
-(./assets/Summary.tex) (./assets/Acknowledgements.tex) (./main.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]\TU/TimesNewRoman(0)/b/n/14.4 Logical Thinking V/S Intuitive
+ []
+
+(./TheoreticalFramework/LogicAndIntuition.tex)
+(./TheoreticalFramework/SentimentBiology.tex)
+(./TheoreticalFramework/EmotionDynamics.tex [7])
+(./TheoreticalFramework/ButterflyEffectChaosTheory.tex)
+(./TheoreticalFramework/LSTM.tex
+File: assets//LSTMChain.png Graphic file (type bmp)
+<assets//LSTMChain.png>
+)
+(./TheoreticalFramework/AncientVedicAstrology.tex
+LaTeX Info: Redefining \rmfamily on input line 12.
+LaTeX Info: Redefining \sffamily on input line 12.
+LaTeX Info: Redefining \ttfamily on input line 12.
+LaTeX Info: Redefining \rmfamily on input line 16.
+LaTeX Info: Redefining \sffamily on input line 16.
+LaTeX Info: Redefining \ttfamily on input line 16.
+ [8]
+LaTeX Info: Redefining \rmfamily on input line 29.
+LaTeX Info: Redefining \sffamily on input line 29.
+LaTeX Info: Redefining \ttfamily on input line 29.
+LaTeX Info: Redefining \rmfamily on input line 32.
+LaTeX Info: Redefining \sffamily on input line 32.
+LaTeX Info: Redefining \ttfamily on input line 32.
+LaTeX Info: Redefining \rmfamily on input line 34.
+LaTeX Info: Redefining \sffamily on input line 34.
+LaTeX Info: Redefining \ttfamily on input line 34.
+LaTeX Info: Redefining \rmfamily on input line 37.
+LaTeX Info: Redefining \sffamily on input line 37.
+LaTeX Info: Redefining \ttfamily on input line 37.
+LaTeX Info: Redefining \rmfamily on input line 41.
+LaTeX Info: Redefining \sffamily on input line 41.
+LaTeX Info: Redefining \ttfamily on input line 41.
+LaTeX Info: Redefining \rmfamily on input line 44.
+LaTeX Info: Redefining \sffamily on input line 44.
+LaTeX Info: Redefining \ttfamily on input line 44.
+LaTeX Info: Redefining \rmfamily on input line 52.
+LaTeX Info: Redefining \sffamily on input line 52.
+LaTeX Info: Redefining \ttfamily on input line 52.
+LaTeX Info: Redefining \rmfamily on input line 55.
+LaTeX Info: Redefining \sffamily on input line 55.
+LaTeX Info: Redefining \ttfamily on input line 55.
+
+Overfull \hbox (18.73889pt too wide) in paragraph at lines 59--83
+[][]
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 94.
+LaTeX Info: Redefining \sffamily on input line 94.
+LaTeX Info: Redefining \ttfamily on input line 94.
+LaTeX Info: Redefining \rmfamily on input line 97.
+LaTeX Info: Redefining \sffamily on input line 97.
+LaTeX Info: Redefining \ttfamily on input line 97.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 98--88
+\TU/TimesNewRoman(0)/m/n/12 Physical Level Mental Level Spiritual Level
+ []
+
+[9] (./AnalysisAndDiscussion/PsychologyAndDynamicalSystems.tex
+File: assets//graph.png Graphic file (type bmp)
+<assets//graph.png>
+)
+(./AnalysisAndDiscussion/ConvergenceDivergenceAndBeliefSystems.tex [10])
+(./AnalysisAndDiscussion/QuantumLevelCosmicLevel.tex)
+(./AnalysisAndDiscussion/VedicAstrologyDynamicalSystems.tex)
+(./AnalysisAndDiscussion/EIMArchitecture.tex
+File: assets//PWOEEmoji.png Graphic file (type bmp)
+<assets//PWOEEmoji.png>
+ [11]) (./Conclusion.tex)
+(./Summary.tex) (./Acknowledgements.tex [12]) (./main.bbl
 
 LaTeX Font Warning: Font shape `TU/TimesNewRoman(0)/m/sc' undefined
 (Font)              using `TU/TimesNewRoman(0)/m/n' instead on input line 4.
 
-[10]
+[13]
 Missing character: There is no ⋯ (U+22EF) in font Times New Roman/OT:language=d
 flt;mapping=tex-text;!
 
-Underfull \hbox (badness 4328) in paragraph at lines 39--46
+Underfull \hbox (badness 3547) in paragraph at lines 116--123
 []\TU/TimesNewRoman(0)/m/sc/12 Wikipedia contributors.  1/2 + 1/4 + 1/8 + 1/16 
 + ⋯ — Wikipedia, the free encyclope-
  []
 
 
-Underfull \hbox (badness 1540) in paragraph at lines 39--46
-\TU/TimesNewRoman(0)/m/sc/12 dia.  []$[][][][][] [] [] [] [][] [] [][][][][][][
-][][] [] [][][] [] [] [] [][][][][] [] [][][] [] [][][][][] [] [] [] [] [] [][]
-[] [] [] [] [] [] [][][] [] [] [] [] [] [][][] [] [] [] [][] [] [][][] []
+Underfull \hbox (badness 1048) in paragraph at lines 133--139
+[][][] [] [] [] [][][][][] [] [][][] [] [][][][][] [] [][][][][][] [] [][][][][
+][][][] [] [][][][][] [] [][][][][][][][][][]$[]\TU/TimesNewRoman(0)/m/sc/12 , 
+2023.  [Online; accessed 28-
  []
 
-) (./assets/Appendix.tex)
+) (./Appendix.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 7.
+
+)
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1340,30 +1467,60 @@ braces):
 >  {sanskrit/babelname}  =>  {sanskrit}
 >  {sanskrit/localnumeral}  =>  {sanskritnumerals}
 >  {sanskrit/Localnumeral}  =>  {sanskritnumerals}.
- [11] (./main.aux
+ [14] (./main.aux
 LaTeX Info: Redefining \rmfamily on input line 19.
 LaTeX Info: Redefining \sffamily on input line 19.
 LaTeX Info: Redefining \ttfamily on input line 19.
-LaTeX Info: Redefining \rmfamily on input line 74.
-LaTeX Info: Redefining \sffamily on input line 74.
-LaTeX Info: Redefining \ttfamily on input line 74.
-LaTeX Info: Redefining \rmfamily on input line 82.
-LaTeX Info: Redefining \sffamily on input line 82.
-LaTeX Info: Redefining \ttfamily on input line 82.
+LaTeX Info: Redefining \rmfamily on input line 92.
+LaTeX Info: Redefining \sffamily on input line 92.
+LaTeX Info: Redefining \ttfamily on input line 92.
+LaTeX Info: Redefining \rmfamily on input line 102.
+LaTeX Info: Redefining \sffamily on input line 102.
+LaTeX Info: Redefining \ttfamily on input line 102.
+LaTeX Info: Redefining \rmfamily on input line 113.
+LaTeX Info: Redefining \sffamily on input line 113.
+LaTeX Info: Redefining \ttfamily on input line 113.
+LaTeX Info: Redefining \rmfamily on input line 121.
+LaTeX Info: Redefining \sffamily on input line 121.
+LaTeX Info: Redefining \ttfamily on input line 121.
+LaTeX Info: Redefining \rmfamily on input line 129.
+LaTeX Info: Redefining \sffamily on input line 129.
+LaTeX Info: Redefining \ttfamily on input line 129.
+LaTeX Info: Redefining \rmfamily on input line 137.
+LaTeX Info: Redefining \sffamily on input line 137.
+LaTeX Info: Redefining \ttfamily on input line 137.
+LaTeX Info: Redefining \rmfamily on input line 145.
+LaTeX Info: Redefining \sffamily on input line 145.
+LaTeX Info: Redefining \ttfamily on input line 145.
+LaTeX Info: Redefining \rmfamily on input line 153.
+LaTeX Info: Redefining \sffamily on input line 153.
+LaTeX Info: Redefining \ttfamily on input line 153.
+LaTeX Info: Redefining \rmfamily on input line 163.
+LaTeX Info: Redefining \sffamily on input line 163.
+LaTeX Info: Redefining \ttfamily on input line 163.
+LaTeX Info: Redefining \rmfamily on input line 171.
+LaTeX Info: Redefining \sffamily on input line 171.
+LaTeX Info: Redefining \ttfamily on input line 171.
+LaTeX Info: Redefining \rmfamily on input line 184.
+LaTeX Info: Redefining \sffamily on input line 184.
+LaTeX Info: Redefining \ttfamily on input line 184.
+LaTeX Info: Redefining \rmfamily on input line 192.
+LaTeX Info: Redefining \sffamily on input line 192.
+LaTeX Info: Redefining \ttfamily on input line 192.
 )
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 69BCF1309775A92C19F5143BA6E404AE;7020.
+(rerunfilecheck)             Checksum: E0F621233C3C76FAE1F6F7EFA9A5F3C4;8207.
  ) 
 Here is how much of TeX's memory you used:
- 42560 strings out of 478117
- 1058850 string characters out of 5852388
- 1608611 words of memory out of 5000000
- 62582 multiletter control sequences out of 15000+600000
+ 42682 strings out of 478117
+ 1061525 string characters out of 5852388
+ 1609690 words of memory out of 5000000
+ 62695 multiletter control sequences out of 15000+600000
  474649 words of font info for 78 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 99i,7n,103p,1080b,1030s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,8n,103p,1117b,1042s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (11 pages).
+Output written on main.pdf (14 pages).

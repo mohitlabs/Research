@@ -1,37 +1,64 @@
 \selectlanguage *{english}
 \contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
-\contentsline {section}{\numberline {2}Research Model \& Hypothesis}{3}{section.2}%
+\contentsline {section}{\numberline {2}Research Model \& Hypothesis}{4}{section.2}%
 \contentsline {section}{\numberline {3}Related Work \& Review of Literature}{4}{section.3}%
 \contentsline {section}{\numberline {4}Theoretical Framework}{4}{section.4}%
 \contentsline {subsection}{\numberline {4.1}What is Artificial Intelligence?}{4}{subsection.4.1}%
 \contentsline {subsubsection}{\numberline {4.1.1}Limitations of AI}{4}{subsubsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.2}What is Emotional Intelligence?}{4}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}What is Emotional Artificial Intelligence?}{4}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.2}What is Emotional Intelligence?}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}What is Emotional Artificial Intelligence?}{5}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Why Truly Intelligent Machines Need Emotions?}{5}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Convergence, Divergence and Belief Systems}{6}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Conscious, Subconscious \& Unconscious of AI}{7}{subsection.4.6}%
-\contentsline {subsubsection}{\numberline {4.6.1}Recurrent Neural Network as Consciousness of AI}{7}{subsubsection.4.6.1}%
-\contentsline {subsubsection}{\numberline {4.6.2}Feed Forward Network as Subconscious of AI}{7}{subsubsection.4.6.2}%
-\contentsline {subsubsection}{\numberline {4.6.3}How to design the Unconscious of AI?}{7}{subsubsection.4.6.3}%
-\contentsline {subsection}{\numberline {4.7}Logical Thinking \& Intuition}{7}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Biology behind Emotions}{8}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.5}Cognitive Psychology}{6}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Plutchik's Wheel of Emotions}{7}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Logical Thinking V/S Intuitive Thinking}{7}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Biology of Sentiments}{8}{subsection.4.8}%
 \contentsline {subsection}{\numberline {4.9}Emotion Dynamics}{8}{subsection.4.9}%
 \contentsline {subsection}{\numberline {4.10}Butterfly Effect \& Chaos Theory}{8}{subsection.4.10}%
-\contentsline {subsection}{\numberline {4.11}Quantum Level V/S Cosmic Level}{8}{subsection.4.11}%
-\contentsline {subsubsection}{\numberline {4.11.1}Microscopic V/S Macroscopic}{8}{subsubsection.4.11.1}%
-\contentsline {subsection}{\numberline {4.12}Plutchik's Wheel of Emotions}{8}{subsection.4.12}%
-\contentsline {subsection}{\numberline {4.13}Ancient Vedic Astrology on Human Emotions}{9}{subsection.4.13}%
-\contentsline {subsubsection}{\numberline {4.13.1}Classification of Vedic Astrology}{9}{subsubsection.4.13.1}%
-\contentsline {subsubsection}{\numberline {4.13.2}Surya Siddhanta}{9}{subsubsection.4.13.2}%
-\contentsline {subsubsection}{\numberline {4.13.3}Vrihat Samhita}{9}{subsubsection.4.13.3}%
-\contentsline {subsubsection}{\numberline {4.13.4}Brihat Parashar Hora Shastra}{9}{subsubsection.4.13.4}%
-\contentsline {subsubsection}{\numberline {4.13.5}Significance of Planets}{9}{subsubsection.4.13.5}%
+\contentsline {subsection}{\numberline {4.11}Long-Short Term Memory(LSTM)}{8}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.12}Ancient Vedic Astrology}{8}{subsection.4.12}%
 \bgroup 
 \selectlanguage *{sanskrit}
 \egroup 
 \selectlanguage *{english}
-\contentsline {subsubsection}{\numberline {4.13.6}Birth Chart (An Initial Condition of Emotion Dynamics)}{9}{subsubsection.4.13.6}%
-\contentsline {subsubsection}{\numberline {4.13.7}Non-Linearity \& Time Variance}{9}{subsubsection.4.13.7}%
-\contentsline {section}{\numberline {5}Methodology}{9}{section.5}%
-\contentsline {section}{\numberline {6}Implementation \& Planned Experiments}{9}{section.6}%
-\contentsline {section}{\numberline {7}Conclusion \& Outlook}{9}{section.7}%
+\contentsline {subsubsection}{\numberline {4.12.1}Significance of Houses}{9}{subsubsection.4.12.1}%
+\contentsline {subsubsection}{\numberline {4.12.2}Properties of Zodiac Signs}{9}{subsubsection.4.12.2}%
+\contentsline {subsubsection}{\numberline {4.12.3}Properties of Planets}{9}{subsubsection.4.12.3}%
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\contentsline {subsubsection}{\numberline {4.12.4}Combinations of Planets with Zodiac Signs}{9}{subsubsection.4.12.4}%
+\contentsline {subsubsection}{\numberline {4.12.5}Dashas \& Transits}{9}{subsubsection.4.12.5}%
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\contentsline {subsubsection}{\numberline {4.12.6}Sudarshan Chakra}{10}{subsubsection.4.12.6}%
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\contentsline {section}{\numberline {5}Analysis \& Discussion}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}LSTM, The Conscious \& Subconscious of AI}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}How to design the Unconscious of AI?}{10}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Cognitive Psychology \& Dynamical Systems}{10}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Convergence, Divergence And Belief Systems}{10}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Quantum Level V/S Cosmic Level}{11}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.1}Microscopic V/S Macroscopic}{11}{subsubsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.6}Vedic Astrology \& Dynamical Systems}{11}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Birth Chart (An Initial Condition of Emotion Dynamics)}{11}{subsubsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.7}Artchitecture of EIM}{11}{subsection.5.7}%
+\contentsline {subsubsection}{\numberline {5.7.1}Modelling of Plutchik’s Wheel of Emotions}{11}{subsubsection.5.7.1}%
+\contentsline {subsubsection}{\numberline {5.7.2}Design of the Unconscious Unit}{11}{subsubsection.5.7.2}%
+\contentsline {subsubsection}{\numberline {5.7.3}Intuition Programming}{12}{subsubsection.5.7.3}%
+\contentsline {section}{\numberline {6}Conclusion \& Outlook}{12}{section.6}%
+\contentsline {section}{\numberline {A}\\Title of Appendix A}{14}{appendix.A}%
+\contentsline {section}{\numberline {B}\\Title of Appendix B}{14}{appendix.B}%

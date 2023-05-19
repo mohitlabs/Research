@@ -109,27 +109,26 @@ Saturn(Shani Dev) vs Moon(Chandra Dev).
 | S.No | Paper Title | Techniques | Findings | Year |
 |:----:|:-----------:|:----------:|:--------:|:----:|
 |  01  | [A Concise History of Hindu Astrology and Indian Spirituality](https://www.researchgate.net/profile/Paulo-Martins-18/publication/368608597_A_Concise_History_of_Hindu_Astrology_and_Indian_Spirituality/links/63f0b7e851d7af054036d469/A-Concise-History-of-Hindu-Astrology-and-Indian-Spirituality.pdf) |  |  | 2023 |
-|  02  | [Description of Twelve Zodiac Signs in Ancient Indian Texts](https://www.researchgate.net/profile/Raja-M-L-Maravan-Lakshmana-Reddi/publication/359710805_Description_of_Twelve_Zodiac_Signs_in_Ancient_Indian_Texts/links/624aa5467931cc7ccf13d7c8/Description-of-Twelve-Zodiac-Signs-in-Ancient-Indian-Texts.pdf) |  |  | 2022 |
-|  03  | [Astrology, modernity and the project of self-identity](https://www.tandfonline.com/doi/pdf/10.1080/14755610.2022.2093234?download=true) |  |  | 2022 |
-|  04  | [Predictability and Predictions](https://www.mdpi.com/2073-4433/13/8/1292/pdf?version=1660477086) |  |  | 2022 |
-|  05  | [Three Kinds of Butterfly Effects within Lorenz Models](https://www.mdpi.com/2673-8392/2/3/84/pdf?version=1657069030) |  |  | 2022 |
-|  06  | [Consciousness:AndItsRelation With SubconsciousMind](https://osf.io/download/hnvba/) |  |  | 2021 |
-|  07  | [Reinforcement Learning for Emotional Text-to-Speech Synthesis with Improved Emotion Discriminability](https://www.isca-speech.org/archive/pdfs/interspeech_2021/liu21p_interspeech.pdf) |  |  | 2021 |
-|  08  | [Sentiment Analysis for Emotional Speech Synthesis in a News Dialogue System](https://aclanthology.org/2020.coling-main.440.pdf) |  |  | 2020 |
-|  09  | [Sentiment Analysis Based on Deep Learning: A Comparative Study](https://arxiv.org/pdf/2006.03541v1.pdf) |  |  | 2020 |
-|  10  | [Generative Adversarial Networks in Human Emotion Synthesis:A Review](https://arxiv.org/pdf/2010.15075.pdf) |  |  | 2020 |
-|  11  | [The Study of Emotional Intelligence in Artificial Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&url=https://ijisrt.com/wp-content/uploads/2019/02/IJISRT19JA351.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECBEQAQ&usg=AOvVaw14LIEFBptEDmRJ-LSdXkpN) |  |  | 2019 |
-|  12  | [Word-level sentiment analysis with reinforcement learning](https://iopscience.iop.org/article/10.1088/1757-899X/490/6/062063/pdf) |  |  | 2019 |
-|  13  | [Consciousness and Unconsciousness of Artificial Intelligence](https://www.researchgate.net/publication/332215462_Consciousness_and_Unconsciousness_of_Artificial_Intelligence/fulltext/5ca6b0f9299bf118c4b32cef/Consciousness-and-Unconsciousness-of-Artificial-Intelligence.pdf) |  |  | 2019 |
-|  14  | [Summarizing Emotions from Text Using Plutchik’s Wheel of Emotions](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjyyIyFnZX-AhUX7zgGHa_MAywQFnoECCIQAQ&url=https%3A%2F%2Fwww.atlantis-press.com%2Farticle%2F125908998.pdf&usg=AOvVaw3zJd9fp9UAU5t0EG1YFMy3) |  |  | 2019 |
-|  15  | [Emotional Intelligence for Artificial Intelligence: A Review](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ijsr.net/archive/v7i8/ART2019481.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECDgQAQ&usg=AOvVaw1L1baoZdnjX-cwpxbNbCde) |  |  | 2017 |
-|  16  | [Sentiment Intensity Ranking among Adjectives Using Sentiment Bearing Word Embeddings](https://aclanthology.org/D17-1058.pdf) |  |  | 2017 |
-|  17  | [Building Emotional Machines: Recognizing Image Emotions through Deep Neural Networks](https://arxiv.org/pdf/1705.07543v2.pdf) |  |  | 2017 |
-|  18  | [Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory](https://arxiv.org/pdf/1704.01074v4.pdf) |  |  | 2017 |
-|  19  | [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/doi/epdf/10.1073/pnas.1517384113) |  |  | 2016 |
-|  20  | [Rule-Based Sentiment Analysis in Narrow Domain: Detecting Sentiment in Daily Horoscopes Using Sentiscope](https://aclanthology.org/W12-5312.pdf) |  |  | 2012 |
-|  21  | [Children’s Emotional Development Is Built into the Architecture of Their Brains](https://developingchild.harvard.edu/wp-content/uploads/2004/04/Childrens-Emotional-Development-Is-Built-into-the-Architecture-of-Their-Brains.pdf) |  |  | 2004 |
-|  22  | [The Unconscious Mind and Planetary Influences on the Human Unconscious Mind and Personality](https://www.researchgate.net/profile/Aditya-Pareek-5/publication/369657531_The_Unconscious_Mind_and_Planetary_Influences_on_the_Human_Unconscious_Mind_and_Personality/links/64267047a1b72772e43d6cb7/The-Unconscious-Mind-and-Planetary-Influences-on-the-Human-Unconscious-Mind-and-Personality.pdf) |  |  | 2023 |
+|  02  | [Astrology, modernity and the project of self-identity](https://www.tandfonline.com/doi/pdf/10.1080/14755610.2022.2093234?download=true) |  |  | 2022 |
+|  03  | [Predictability and Predictions](https://www.mdpi.com/2073-4433/13/8/1292/pdf?version=1660477086) |  |  | 2022 |
+|  04  | [Three Kinds of Butterfly Effects within Lorenz Models](https://www.mdpi.com/2673-8392/2/3/84/pdf?version=1657069030) |  |  | 2022 |
+|  05  | [Consciousness:AndItsRelation With SubconsciousMind](https://osf.io/download/hnvba/) |  |  | 2021 |
+|  06  | [Reinforcement Learning for Emotional Text-to-Speech Synthesis with Improved Emotion Discriminability](https://www.isca-speech.org/archive/pdfs/interspeech_2021/liu21p_interspeech.pdf) |  |  | 2021 |
+|  07  | [Sentiment Analysis for Emotional Speech Synthesis in a News Dialogue System](https://aclanthology.org/2020.coling-main.440.pdf) |  |  | 2020 |
+|  08  | [Sentiment Analysis Based on Deep Learning: A Comparative Study](https://arxiv.org/pdf/2006.03541v1.pdf) |  |  | 2020 |
+|  09  | [Generative Adversarial Networks in Human Emotion Synthesis:A Review](https://arxiv.org/pdf/2010.15075.pdf) |  |  | 2020 |
+|  10  | [The Study of Emotional Intelligence in Artificial Intelligence](https://www.google.com/url?sa=t&source=web&rct=j&url=https://ijisrt.com/wp-content/uploads/2019/02/IJISRT19JA351.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECBEQAQ&usg=AOvVaw14LIEFBptEDmRJ-LSdXkpN) |  |  | 2019 |
+|  11  | [Word-level sentiment analysis with reinforcement learning](https://iopscience.iop.org/article/10.1088/1757-899X/490/6/062063/pdf) |  |  | 2019 |
+|  12  | [Consciousness and Unconsciousness of Artificial Intelligence](https://www.researchgate.net/publication/332215462_Consciousness_and_Unconsciousness_of_Artificial_Intelligence/fulltext/5ca6b0f9299bf118c4b32cef/Consciousness-and-Unconsciousness-of-Artificial-Intelligence.pdf) |  |  | 2019 |
+|  13  | [Summarizing Emotions from Text Using Plutchik’s Wheel of Emotions](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjyyIyFnZX-AhUX7zgGHa_MAywQFnoECCIQAQ&url=https%3A%2F%2Fwww.atlantis-press.com%2Farticle%2F125908998.pdf&usg=AOvVaw3zJd9fp9UAU5t0EG1YFMy3) |  |  | 2019 |
+|  14  | [Emotional Intelligence for Artificial Intelligence: A Review](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ijsr.net/archive/v7i8/ART2019481.pdf&ved=2ahUKEwjQ3rf8sKn9AhWA6jgGHf1uCRgQFnoECDgQAQ&usg=AOvVaw1L1baoZdnjX-cwpxbNbCde) |  |  | 2017 |
+|  15  | [Sentiment Intensity Ranking among Adjectives Using Sentiment Bearing Word Embeddings](https://aclanthology.org/D17-1058.pdf) |  |  | 2017 |
+|  16  | [Building Emotional Machines: Recognizing Image Emotions through Deep Neural Networks](https://arxiv.org/pdf/1705.07543v2.pdf) |  |  | 2017 |
+|  17  | [Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory](https://arxiv.org/pdf/1704.01074v4.pdf) |  |  | 2017 |
+|  18  | [Discovering governing equations from data by sparse identification of nonlinear dynamical systems](https://www.pnas.org/doi/epdf/10.1073/pnas.1517384113) |  |  | 2016 |
+|  19  | [Rule-Based Sentiment Analysis in Narrow Domain: Detecting Sentiment in Daily Horoscopes Using Sentiscope](https://aclanthology.org/W12-5312.pdf) |  |  | 2012 |
+|  20  | [Children’s Emotional Development Is Built into the Architecture of Their Brains](https://developingchild.harvard.edu/wp-content/uploads/2004/04/Childrens-Emotional-Development-Is-Built-into-the-Architecture-of-Their-Brains.pdf) |  |  | 2004 |
+|  21  | [The Unconscious Mind and Planetary Influences on the Human Unconscious Mind and Personality](https://www.researchgate.net/profile/Aditya-Pareek-5/publication/369657531_The_Unconscious_Mind_and_Planetary_Influences_on_the_Human_Unconscious_Mind_and_Personality/links/64267047a1b72772e43d6cb7/The-Unconscious-Mind-and-Planetary-Influences-on-the-Human-Unconscious-Mind-and-Personality.pdf) |  |  | 2023 |
 
 # 4. Methodology
 

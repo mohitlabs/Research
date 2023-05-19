@@ -1,4 +1,9 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{article3}
+{\sc Abbasi, M., and Beltiukov, A.}
+\newblock Summarizing emotions from text using plutchik's wheel of emotions.
+\newblock 291--294.
 
 \bibitem{atmos13081292}
 {\sc Anthes, R.~A.}
@@ -6,12 +11,58 @@
   Predictions}.
 \newblock {\em Atmosphere 13}, 8 (2022).
 
-\bibitem{article}
+\bibitem{article1}
 {\sc Bhardwaj, R., and Pareek, A.}
 \newblock
   \href{https://www.researchgate.net/profile/Aditya-Pareek-5/publication/369657531_The_Unconscious_Mind_and_Planetary_Influences_on_the_Human_Unconscious_Mind_and_Personality/links/64267047a1b72772e43d6cb7/The-Unconscious-Mind-and-Planetary-Influences-on-the-Human-Unconscious-Mind-and-Personality.pdf}{The
   Unconscious Mind and Planetary Influences on the Human Unconscious Mind and
   Personality}.
+
+\bibitem{article5}
+{\sc Chen, R., Zhou, Y., Zhang, L., and Duan, X.}
+\newblock Word-level sentiment analysis with reinforcement learning.
+\newblock {\em IOP Conference Series: Materials Science and Engineering 490\/}
+  (04 2019), 062063.
+
+\bibitem{doi:10.1080/14755610.2022.2093234}
+{\sc Clements, P.}
+\newblock Astrology, modernity and the project of self-identity.
+\newblock {\em Culture and Religion 21}, 3 (2020), 259--279.
+
+\bibitem{electronics9030483}
+{\sc Dang, N.~C., Moreno-García, M.~N., and De~la Prieta, F.}
+\newblock Sentiment analysis based on deep learning: A comparative study.
+\newblock {\em Electronics 9}, 3 (2020).
+
+\bibitem{unknown}
+{\sc Hajarolasvadi, N., Arjona~Ramírez, M., and Demirel, H.}
+\newblock Generative adversarial networks in human emotion synthesis:a review,
+  10 2020.
+
+\bibitem{article}
+{\sc Hochreiter, S., and Schmidhuber, J.}
+\newblock
+  \href{https://www.researchgate.net/publication/13853244_Long_Short-term_Memory}{Long
+  Short-term Memory}.
+\newblock {\em Neural computation 9\/} (12 1997), 1735--80.
+
+\bibitem{liu21p_interspeech}
+{\sc Liu, R., Sisman, B., and Li, H.}
+\newblock {Reinforcement Learning for Emotional Text-to-Speech Synthesis with
+  Improved Emotion Discriminability}.
+\newblock In {\em Proc. Interspeech 2021\/} (2021), pp.~4648--4652.
+
+\bibitem{article2}
+{\sc Martins, P.}
+\newblock A concise history of hindu astrology and indian spirituality.
+\newblock 33--36.
+
+\bibitem{BrihatParasharHoraShastraVol2}
+{\sc Mishra, D. S.~C.}
+\newblock {\em
+  \href{https://archive.org/details/brihat-parashar-hora-shastra-suresh-chandra-mishra}{Brihat
+  Parashar Hora Shastra of Maharishi Parashar}}, vol.~2.
+\newblock Ranjan Publications.
 
 \bibitem{BrihatParasharHoraShastraVol1}
 {\sc Mishra, D. S.~C.}
@@ -19,6 +70,18 @@
   \href{https://archive.org/details/brihat-parashar-hora-shastra-vol-2-suresh-chandra-mishra}{Brihat
   Parashar Hora Shastra of Maharishi Parashar}}, vol.~1.
 \newblock Ranjan Publications.
+
+\bibitem{SuryaSiddhanta}
+{\sc Pandey, P. R.~C.}
+\newblock {\em
+  \href{https://archive.org/details/surya-siddhanta_202102/Surya%20Siddhanta%20-%20Prof.%20Ram%20Chandra%20Pandey/}{Surya
+  Siddhanta of Mayasura by Prof. Ram Chandra Pandey}}.
+\newblock Chaukhamba Surbharati Publications.
+
+\bibitem{article4}
+{\sc Piletsky, E.}
+\newblock Consciousness and unconsciousness of artificial intelligence.
+\newblock {\em Future Human Image 11\/} (03 2019), 66--71.
 
 \bibitem{ISSN-2456-2165}
 {\sc Sahiti S.~Magapu, S.~V.}
@@ -28,12 +91,26 @@
 \newblock {\em International Journal of Innovative Science and Research
   Technology (IJISRT) 4\/} (01 2019), 594--602.
 
+\bibitem{inproceedings}
+{\sc Sharma, R., Somani, A., Kumar, L., and Bhattacharyya, P.}
+\newblock Sentiment intensity ranking among adjectives using sentiment bearing
+  word embeddings.
+\newblock pp.~547--552.
+
 \bibitem{encyclopedia2030084}
 {\sc Shen, B.-W., Pielke, R.~A., Zeng, X., Cui, J., Faghih-Naini, S., Paxson,
   W., and Atlas, R.}
 \newblock \href{https://www.mdpi.com/2673-8392/2/3/84}{Three Kinds of Butterfly
   Effects within Lorenz Models}.
 \newblock {\em Encyclopedia 2}, 3 (2022), 1250--1259.
+
+\bibitem{takatsu-etal-2020-sentiment}
+{\sc Takatsu, H., Ando, R., Matsuyama, Y., and Kobayashi, T.}
+\newblock Sentiment analysis for emotional speech synthesis in a news dialogue
+  system.
+\newblock In {\em Proceedings of the 28th International Conference on
+  Computational Linguistics\/} (Barcelona, Spain (Online), Dec. 2020),
+  International Committee on Computational Linguistics, pp.~5013--5025.
 
 \bibitem{enwiki:1123380424}
 {\sc {Wikipedia contributors}}.
@@ -59,5 +136,15 @@
   \url{https://en.wikipedia.org/w/index.php?title=Robert_Plutchik&oldid=1136521972},
   2023.
 \newblock [Online; accessed 28-April-2023].
+
+\bibitem{wiki:ss}
+{\sc wikisource}.
+\newblock \href{https://sa.wikisource.org/s/145}{SuryaSiddhanta - Wikisource},
+  2018.
+
+\bibitem{wiki:bphs}
+{\sc wikisource}.
+\newblock \href{https://sa.wikisource.org/s/127}{BrihatParasharaHoraShastra -
+  Wikisource}, 2023.
 
 \end{thebibliography}
