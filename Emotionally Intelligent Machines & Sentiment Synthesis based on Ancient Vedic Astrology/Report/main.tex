@@ -1,0 +1,38 @@
+\documentclass[12pt, a4paper, twoside]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{times}
+\usepackage{tabularx}
+\usepackage[hidelinks]{hyperref}
+\usepackage{cite}
+\usepackage{graphicx}
+\graphicspath{ {assets/} }
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage[siunitx, RPvoltages, american]{circuitikz}
+\newcommand{\Title}[1]{{\LARGE \centering \hrulefill\\ \textbf{#1}\\ \hrulefill}}
+\date{}
+\begin{document}
+	\pagestyle{empty}
+	\input{FrontPage}
+	\input{AcceptanceCertificate}
+	\input{Acknowledgements}
+	\tableofcontents
+	\newpage
+	\pagestyle{plain}
+	\Title{Emotionally Intelligent Machines \& Sentiment Synthesis based on Ancient Vedic Astrology}
+	\section*{Abstract}
+	\input{Abstract}
+	\section*{Keywords}
+	\input{Keywords}
+	\newline
+	\hrule
+	\section{Introduction}
+	\input{Introduction}
+	\section{Review of Literature}
+	\input{LiteratureReview}
+	\section{Conclusion \& Outlook}
+	\input{Conclusion}
+	\hrule
+	\bibliography{Citations}
+	\bibliographystyle{ieeetr}
+\end{document}
