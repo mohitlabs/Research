@@ -6,16 +6,16 @@ The style file: ieeetr.bst
 Database file #1: Citations.bib
 You've used 25 entries,
             1876 wiz_defined-function locations,
-            613 strings with 9491 characters,
-and the built_in function-call counts, 5708 in all, are:
-= -- 564
+            613 strings with 9479 characters,
+and the built_in function-call counts, 5715 in all, are:
+= -- 566
 > -- 195
 < -- 0
 + -- 78
 - -- 53
-* -- 378
-:= -- 806
-add.period$ -- 30
+* -- 379
+:= -- 808
+add.period$ -- 31
 call.type$ -- 25
 change.case$ -- 22
 chr.to.int$ -- 0
@@ -23,17 +23,17 @@ cite$ -- 25
 duplicate$ -- 287
 empty$ -- 576
 format.name$ -- 53
-if$ -- 1415
+if$ -- 1417
 int.to.chr$ -- 0
 int.to.str$ -- 25
 missing$ -- 22
 newline$ -- 84
 num.names$ -- 25
-pop$ -- 88
+pop$ -- 90
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 214
+skip$ -- 210
 stack$ -- 0
 substring$ -- 314
 swap$ -- 115
@@ -44,4 +44,4 @@ type$ -- 0
 warning$ -- 0
 while$ -- 49
 width$ -- 27
-write$ -- 237
+write$ -- 238

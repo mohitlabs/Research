@@ -11,22 +11,17 @@
 \contentsline {subsection}{\numberline {4.5}Cognitive Psychology}{8}{subsection.4.5}%
 \contentsline {subsection}{\numberline {4.6}Plutchik's Wheel of Emotions}{9}{subsection.4.6}%
 \contentsline {subsection}{\numberline {4.7}Logical Thinking V/S Intuitive Thinking}{9}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Biology of Sentiments}{10}{subsection.4.8}%
-\contentsline {subsection}{\numberline {4.9}Emotion Dynamics}{10}{subsection.4.9}%
-\contentsline {subsection}{\numberline {4.10}Butterfly Effect \& Chaos Theory}{10}{subsection.4.10}%
-\contentsline {subsection}{\numberline {4.11}Long-Short Term Memory(LSTM)}{10}{subsection.4.11}%
-\contentsline {subsection}{\numberline {4.12}Ancient Vedic Astrology}{10}{subsection.4.12}%
+\contentsline {subsection}{\numberline {4.8}Emotion Dynamics}{10}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Butterfly Effect \& Chaos Theory}{10}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}Long-Short Term Memory(LSTM)}{10}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}Ancient Vedic Astrology}{10}{subsection.4.11}%
 \bgroup 
 \selectlanguage *{sanskrit}
 \egroup 
 \selectlanguage *{english}
-\contentsline {subsubsection}{\numberline {4.12.1}Significance of Houses}{11}{subsubsection.4.12.1}%
-\contentsline {subsubsection}{\numberline {4.12.2}Properties of Zodiac Signs}{11}{subsubsection.4.12.2}%
-\contentsline {subsubsection}{\numberline {4.12.3}Properties of Planets}{11}{subsubsection.4.12.3}%
-\bgroup 
-\selectlanguage *{sanskrit}
-\egroup 
-\selectlanguage *{english}
+\contentsline {subsubsection}{\numberline {4.11.1}Significance of Houses}{11}{subsubsection.4.11.1}%
+\contentsline {subsubsection}{\numberline {4.11.2}Properties of Zodiac Signs}{11}{subsubsection.4.11.2}%
+\contentsline {subsubsection}{\numberline {4.11.3}Properties of Planets}{11}{subsubsection.4.11.3}%
 \bgroup 
 \selectlanguage *{sanskrit}
 \egroup 
@@ -35,13 +30,17 @@
 \selectlanguage *{sanskrit}
 \egroup 
 \selectlanguage *{english}
-\contentsline {subsubsection}{\numberline {4.12.4}Combinations of Planets with Zodiac Signs}{11}{subsubsection.4.12.4}%
-\contentsline {subsubsection}{\numberline {4.12.5}Dashas \& Transits}{11}{subsubsection.4.12.5}%
 \bgroup 
 \selectlanguage *{sanskrit}
 \egroup 
 \selectlanguage *{english}
-\contentsline {subsubsection}{\numberline {4.12.6}Sudarshan Chakra}{12}{subsubsection.4.12.6}%
+\contentsline {subsubsection}{\numberline {4.11.4}Combinations of Planets with Zodiac Signs}{11}{subsubsection.4.11.4}%
+\contentsline {subsubsection}{\numberline {4.11.5}Dashas \& Transits}{11}{subsubsection.4.11.5}%
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\contentsline {subsubsection}{\numberline {4.11.6}Sudarshan Chakra}{12}{subsubsection.4.11.6}%
 \bgroup 
 \selectlanguage *{sanskrit}
 \egroup 
