@@ -2,6 +2,7 @@
 \usepackage[margin=1in]{geometry}
 \usepackage{times}
 \usepackage{tabularx}
+\newcolumntype{M}{>{\centering\arraybackslash}X}
 \usepackage[hidelinks]{hyperref}
 \usepackage{cite}
 \usepackage{graphicx}
@@ -9,20 +10,34 @@
 \usepackage{float}
 \usepackage{amsmath}
 \usepackage[siunitx, RPvoltages, american]{circuitikz}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage{sanskrit}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\newfontfamily{\devanagarifont}[Script=Devanagari]{Lohit Devanagari}
 \newcommand{\Title}[1]{{\LARGE \centering \hrulefill\\ \textbf{#1}\\ \hrulefill}}
 \date{}
 \begin{document}
 	\pagestyle{empty}
 	\input{FrontPage}
+	\section*{\centering \LARGE Acceptance Certificate}
+	\addcontentsline{toc}{section}{Acceptance Certificate}
+	\vspace{1\baselineskip}
 	\input{AcceptanceCertificate}
+	\section*{\centering \LARGE Acknowledgements}
+	\addcontentsline{toc}{section}{Acknowledgements}
+	\vspace{1\baselineskip}
 	\input{Acknowledgements}
 	\tableofcontents
 	\newpage
 	\pagestyle{plain}
 	\Title{Emotionally Intelligent Machines \& Sentiment Synthesis based on Ancient Vedic Astrology}
 	\section*{Abstract}
+	\addcontentsline{toc}{section}{Abstract}
 	\input{Abstract}
 	\section*{Keywords}
+	\addcontentsline{toc}{section}{Keywords}
 	\input{Keywords}
 	\newline
 	\hrule
@@ -30,9 +45,36 @@
 	\input{Introduction}
 	\section{Review of Literature}
 	\input{LiteratureReview}
+	\section{Theoretical Framework}
+	\subsection{What is Artificial Intelligence?}
+	\input{TheoreticalFramework/ArtificialIntelligence}
+	\subsection{What is Emotional Intelligence?}
+	\input{TheoreticalFramework/EmotionalIntelligence}
+	\subsection{What is Emotional Artificial Intelligence?}
+	\input{TheoreticalFramework/EmotionalArtificialIntelligence}
+	\subsection{Why Truly Intelligent Machines Need Emotions?}
+	\input{TheoreticalFramework/WhyTrulyIntelligentMachinesNeedEmotions}
+	\subsection{Cognitive Psychology}
+	\input{TheoreticalFramework/CognitivePsychology}
+	\subsection{Plutchik's Wheel of Emotions}
+	\input{TheoreticalFramework/Plutchik'sWheelofEmotions}
+	\subsection{Logical Thinking V/S Intuitive Thinking}
+	\input{TheoreticalFramework/LogicAndIntuition}
+	\subsection{Emotion Dynamics}
+	\input{TheoreticalFramework/EmotionDynamics}
+	\subsection{Butterfly Effect \& Chaos Theory}
+	\input{TheoreticalFramework/ButterflyEffectChaosTheory}
+	\subsection{Long-Short Term Memory(LSTM)}
+	\input{TheoreticalFramework/LSTM}
+	\subsection{Vedic Astrology}
+	\input{TheoreticalFramework/VedicAstrology}
 	\section{Conclusion \& Outlook}
 	\input{Conclusion}
 	\hrule
 	\bibliography{Citations}
 	\bibliographystyle{ieeetr}
+	\section*{Appendix}
+	\addcontentsline{toc}{section}{Appendix}
+	\appendix
+	\input{Appendix}
 \end{document}
