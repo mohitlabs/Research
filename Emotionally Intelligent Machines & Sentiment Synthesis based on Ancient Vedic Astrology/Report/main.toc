@@ -13,40 +13,16 @@
 \contentsline {subsection}{\numberline {3.4}Why Truly Intelligent Machines Need Emotions?}{20}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Cognitive Psychology}{22}{subsection.3.5}%
 \contentsline {subsection}{\numberline {3.6}Plutchik's Wheel of Emotions}{23}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Logical Thinking V/S Intuitive Thinking}{25}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Emotion Dynamics}{25}{subsection.3.8}%
-\contentsline {subsection}{\numberline {3.9}Butterfly Effect \& Chaos Theory}{27}{subsection.3.9}%
-\contentsline {subsection}{\numberline {3.10}Long-Short Term Memory(LSTM)}{27}{subsection.3.10}%
-\contentsline {subsection}{\numberline {3.11}Vedic Astrology}{28}{subsection.3.11}%
-\contentsline {subsubsection}{\numberline {3.11.1}Significance of Houses}{29}{subsubsection.3.11.1}%
-\bgroup 
-\selectlanguage *{sanskrit}
-\egroup 
-\selectlanguage *{english}
-\contentsline {subsubsection}{\numberline {3.11.2}Properties of Zodiac Signs}{31}{subsubsection.3.11.2}%
-\bgroup 
-\selectlanguage *{sanskrit}
-\egroup 
-\selectlanguage *{english}
-\contentsline {subsubsection}{\numberline {3.11.3}Properties of Planets}{31}{subsubsection.3.11.3}%
-\bgroup 
-\selectlanguage *{sanskrit}
-\egroup 
-\selectlanguage *{english}
-\bgroup 
-\selectlanguage *{sanskrit}
-\egroup 
-\selectlanguage *{english}
-\bgroup 
-\selectlanguage *{sanskrit}
-\egroup 
-\selectlanguage *{english}
-\contentsline {subsubsection}{\numberline {3.11.4}Dashas \& Transits}{32}{subsubsection.3.11.4}%
-\bgroup 
-\selectlanguage *{sanskrit}
-\egroup 
-\selectlanguage *{english}
-\contentsline {section}{\numberline {4}Conclusion \& Outlook}{32}{section.4}%
-\contentsline {section}{Appendix}{35}{section*.7}%
-\contentsline {section}{List of Figures}{35}{section*.8}%
-\contentsline {section}{List of Tables}{35}{section*.9}%
+\contentsline {subsection}{\numberline {3.7}Logical Thinking vs Intuitive Thinking}{25}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Convergence, Divergence \& Belief Systems}{25}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Emotion Dynamics}{27}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Butterfly Effect \& Chaos Theory}{28}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Long-Short Term Memory(LSTM)}{29}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12}Vedic Astrology}{30}{subsection.3.12}%
+\contentsline {subsubsection}{\numberline {3.12.1}Classification of Vedic Astrology}{30}{subsubsection.3.12.1}%
+\contentsline {subsubsection}{\numberline {3.12.2}Properties of Planets}{31}{subsubsection.3.12.2}%
+\contentsline {subsubsection}{\numberline {3.12.3}Dashas \& Transits}{32}{subsubsection.3.12.3}%
+\contentsline {section}{\numberline {4}Conclusion \& Outlook}{33}{section.4}%
+\contentsline {section}{Appendix}{36}{section*.7}%
+\contentsline {section}{List of Figures}{36}{section*.8}%
+\contentsline {section}{List of Tables}{36}{section*.9}%
