@@ -1,0 +1,98 @@
+\documentclass{IEEEtran}
+\usepackage{tabularx}
+\newcolumntype{M}{>{\centering\arraybackslash}X}
+\usepackage[hidelinks]{hyperref}
+\usepackage{cite}
+\usepackage{graphicx}
+\graphicspath{ {assets/} }
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage[siunitx, RPvoltages, american]{circuitikz}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage{sanskrit}
+\usepackage{fontspec}
+\newfontfamily{\devanagarifont}[Script=Devanagari]{Lohit Devanagari}
+\title{Emotionally Intelligent Machines \& Sentiment Synthesis based on Ancient Vedic Astrology}
+\makeatletter
+\renewcommand\AB@affilsepx{, \protect\Affilfont}
+\makeatother
+\author[1]{Mohit Singh}
+\author[2]{Dr. Priyank Singhal}
+\author[3]{Mr. Vikas Kuchhal}
+\affil[1,2,3]{College of Computing Sciences \& Information Technology\\Teerthanker Mahaveer University\\Moradabad, Uttar Pradesh\\India}
+\affil[1]{\href{mailto:mohit.tca2212005@tmu.ac.in}{mohit.tca2212005@tmu.ac.in}}
+\affil[2]{\href{mailto:drpriyanksinghal@gmail.com}{drpriyanksinghal@gmail.com}}
+\affil[3]{\href{mailto:vikask.computers@tmu.ac.in}{vikask.computers@tmu.ac.in}}
+\affil[1,2,3]{DOI:}
+\begin{document}
+	\pagestyle{plain}
+	\maketitle
+	\hrule
+	\begin{abstract}
+		\textbf{\input{Abstract}}
+	\end{abstract}
+	\textbf{Keywords: }
+	\input{Keywords}
+	\newline
+	\hrule
+	\begin{multicols}{2}
+		\section{Introduction}
+		\input{Introduction}
+		\section{Research Model \& Hypothesis}
+		\input{Hypothesis}
+		\section{Related Work \& Review of Literature}
+		\input{LiteratureReview}
+		\section{Theoretical Framework}
+		\subsection{What is Artificial Intelligence?}
+		\input{TheoreticalFramework/ArtificialIntelligence}
+		\subsection{What is Emotional Intelligence?}
+		\input{TheoreticalFramework/EmotionalIntelligence}
+		\subsection{What is Emotional Artificial Intelligence?}
+		\input{TheoreticalFramework/EmotionalArtificialIntelligence}
+		\subsection{Why Truly Intelligent Machines Need Emotions?}
+		\input{TheoreticalFramework/WhyTrulyIntelligentMachinesNeedEmotions}
+		\subsection{Cognitive Psychology}
+		\input{TheoreticalFramework/CognitivePsychology}
+		\subsection{Plutchik's Wheel of Emotions}
+		\input{TheoreticalFramework/Plutchik'sWheelofEmotions}
+		\subsection{Logical Thinking V/S Intuitive Thinking}
+		\input{TheoreticalFramework/LogicAndIntuition}
+		\subsection{Emotion Dynamics}
+		\input{TheoreticalFramework/EmotionDynamics}
+		\subsection{Butterfly Effect \& Chaos Theory}
+		\input{TheoreticalFramework/ButterflyEffectChaosTheory}
+		\subsection{Long-Short Term Memory(LSTM)}
+		\input{TheoreticalFramework/LSTM}
+		\subsection{Vedic Astrology}
+		\input{TheoreticalFramework/VedicAstrology}
+		\section{Analysis \& Discussion}
+		\subsection{LSTM, The Conscious \& Subconscious of AI}
+		\subsection{How to design the Unconscious of AI?}
+		\subsection{Cognitive Psychology \& Dynamical Systems}
+		\input{AnalysisAndDiscussion/PsychologyAndDynamicalSystems}
+		\subsection{Convergence, Divergence And Belief Systems}
+		\input{AnalysisAndDiscussion/ConvergenceDivergenceAndBeliefSystems}
+		\subsection{Quantum Level V/S Cosmic Level}
+		\input{AnalysisAndDiscussion/QuantumLevelCosmicLevel}
+		\subsection{Vedic Astrology \& Dynamical Systems}
+		\input{AnalysisAndDiscussion/VedicAstrologyDynamicalSystems}
+		\subsection{Artchitecture of EIM}
+		\input{AnalysisAndDiscussion/EIMArchitecture}
+		\section{Conclusion \& Outlook}
+		\input{Conclusion}
+	\end{multicols}
+	\hrule
+	\centering
+	\section*{Summary}
+	\input{Summary}
+	\section*{Acknowledgements}
+	\input{Acknowledgements}
+	\newline
+	\hrule
+	\bibliography{Citations}
+	\bibliographystyle{ieeetr}
+	\appendix
+	\section*{Appendix}
+	\input{Appendix}
+\end{document}
