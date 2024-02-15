@@ -1,0 +1,70 @@
+\large
+\begin{equation}
+y[n]= \sum _{m=0} ^L b[m] \cdot x[n-m]+ \sum _ {r=1} ^R a[r] \cdot y(n-r)
+\end{equation}
+
+\large
+H(z)=\dfrac{Y(z)}  {X(z)}= \dfrac{\sum _ {m=0} ^L b(m)  \cdot z^{-m}}{1-\sum _ {r=1} ^ R a(r) \cdot z^{-r}}
+
+\large
+\begin{equation}
+y[n]= x[n] + \sum _{r=1}^2 a[r] \cdot y[n-r]
+\end{equation}
+
+\large
+H(z)=\dfrac{1}  {1-a_1\cdot z^{-1}-a_2\cdot z^{-2}}
+
+\large
+\Omega=\dfrac{2\pi\cdot 440 Hz}{8000 Hz}
+
+\large
+p_{0,1}=Q \cdot \exp\left(\pm j \cdot Q\right)
+
+\large
+H(z)=\dfrac{1}  {1-a_1\cdot z^{-1}-a_2\cdot z^{-2}} =\dfrac{1}  {(1-p_0\cdot z^{-1})(1-p_1\cdot z^{-1})}
+
+\large
+a_1=(p_0+p_1) \\
+\large
+a_2=p_0\cdot p_1
+
+\large
+a_1=2Q\cdot \cos(\Omega)\\
+\large
+a_2=-Q^2
+
+\large
+h_t=tanh(W_{ih}\cdot  x_t+b_{ih}+W_{hh}\cdot h_{t−1}+b_{hh})
+
+\large
+h_t[i]=y[t−i] \text{ for i=0,1,2}
+
+\large
+h_t[0]=y[t]=x[t]+a_1 \cdot y[t−1] + a_2 \cdot y[t−2]
+
+\large
+h_t[0]=x[t]+a_1 \cdot h_{t−1} [0]+a_2 \cdot h_{t−1} [1]
+
+\large
+h_t[1]=h_{t−1}[0] \\
+\large
+h_t [2]=h_{t−1}[1]
+
+\large
+h_t=W_{ih} \cdot x_t+W_{hh} \cdot h_{t−1}
+
+\large
+W_{hh}=
+\begin{bmatrix}
+a_1 & a_2 & 0\\
+1 & 0 & 0 \\
+0 & 1 & 0
+\end{bmatrix}
+
+\large
+W_{ih}=
+\begin{bmatrix}
+ 1\\
+0 \\
+0
+\end{bmatrix}

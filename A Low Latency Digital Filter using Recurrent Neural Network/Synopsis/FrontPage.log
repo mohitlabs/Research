@@ -1,0 +1,963 @@
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2024.2.3)  3 FEB 2024 19:56
+ restricted system commands enabled.
+**FrontPage.tex
+(./FrontPage.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "C:/Users/mohit/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "C:/Users/mohit/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/f
+ontloader-2023-08-19.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.133
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/mohit/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{titlepage}
+                   	
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.4 	\LARGE
+          \textbf{A Low Latency Digital Filter using Recurrent Neural Network}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...igital Filter using Recurrent Neural Network}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+luaotfload | db : Font names database loaded from C:/Users/mohit/AppData/Local/M
+iKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz
+Overfull \hbox (8.69pt too wide) in paragraph at lines 4--6
+ []\TU/lmr/bx/n/10 A 
+ []
+
+
+Overfull \hbox (20.65999pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 Low 
+ []
+
+
+Overfull \hbox (16.34pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 La- 
+ []
+
+
+Overfull \hbox (27.31001pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 tency 
+ []
+
+
+Overfull \hbox (21.59001pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 Dig- 
+ []
+
+
+Overfull \hbox (7.02pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 i- 
+ []
+
+
+Overfull \hbox (13.25pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 tal 
+ []
+
+
+Overfull \hbox (17.45001pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 Fil- 
+ []
+
+
+Overfull \hbox (14.48001pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 ter 
+ []
+
+
+Overfull \hbox (14.76pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 us- 
+ []
+
+
+Overfull \hbox (15.33pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 ing 
+ []
+
+
+Overfull \hbox (17.73001pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 Re- 
+ []
+
+
+Overfull \hbox (20.07pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 cur- 
+ []
+
+
+Overfull \hbox (20.55pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 rent 
+ []
+
+
+Overfull \hbox (24.49pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 Neu- 
+ []
+
+
+Overfull \hbox (13.52pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 ral 
+ []
+
+
+Overfull \hbox (22.57pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 Net- 
+ []
+
+
+Overfull \hbox (24.55pt too wide) in paragraph at lines 4--6
+ \TU/lmr/bx/n/10 work 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 	\textbf{Dissertation-I (MCS-392)}
+                                    \\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (64.79001pt too wide) in paragraph at lines 7--7
+ []\TU/lmr/bx/n/10 Dissertation- 
+ []
+
+
+Overfull \hbox (4.36pt too wide) in paragraph at lines 7--7
+ \TU/lmr/bx/n/10 I 
+ []
+
+
+Overfull \hbox (33.92pt too wide) in paragraph at lines 7--7
+ \TU/lmr/bx/n/10 (MCS- 
+ []
+
+
+Overfull \hbox (21.72pt too wide) in paragraph at lines 7--7
+ \TU/lmr/bx/n/10 392) 
+ []
+
+! Undefined control sequence.
+l.10 	\large
+           \textit{\textbf{Submitted in partial fulfillment of	the requireme...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...nts for the degree of Master of Technology}}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (22.17001pt too wide) in paragraph at lines 10--12
+ []\TU/lmr/bx/it/10 Sub- 
+ []
+
+
+Overfull \hbox (20.99pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 mit- 
+ []
+
+
+Overfull \hbox (14.49002pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 ted 
+ []
+
+
+Overfull \hbox (10.06pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 in 
+ []
+
+
+Overfull \hbox (20.39001pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 par- 
+ []
+
+
+Overfull \hbox (16.29001pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 tial 
+ []
+
+
+Overfull \hbox (17.32pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 ful- 
+ []
+
+
+Overfull \hbox (17.70001pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 fill- 
+ []
+
+
+Overfull \hbox (25.11002pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 ment 
+ []
+
+
+Overfull \hbox (9.91pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 of 
+ []
+
+
+Overfull \hbox (15.08002pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 the 
+ []
+
+
+Overfull \hbox (13.89001pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 re- 
+ []
+
+
+Overfull \hbox (28.98003pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 quire- 
+ []
+
+
+Overfull \hbox (29.98001pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 ments 
+ []
+
+
+Overfull \hbox (14.93001pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 for 
+ []
+
+
+Overfull \hbox (15.08002pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 the 
+ []
+
+
+Overfull \hbox (15.37001pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 de- 
+ []
+
+
+Overfull \hbox (19.80003pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 gree 
+ []
+
+
+Overfull \hbox (9.91pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 of 
+ []
+
+
+Overfull \hbox (25.65pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 Mas- 
+ []
+
+
+Overfull \hbox (14.19002pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 ter 
+ []
+
+
+Overfull \hbox (9.91pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 of 
+ []
+
+
+Overfull \hbox (27.18002pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 Tech- 
+ []
+
+
+Overfull \hbox (19.52pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 nol- 
+ []
+
+
+Overfull \hbox (16.26001pt too wide) in paragraph at lines 10--12
+ \TU/lmr/bx/it/10 ogy 
+ []
+
+! Undefined control sequence.
+l.13 	\includegraphics
+                    [width=150pt, keepaspectratio]{tmu_logo}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 	\includegraphics[
+                     width=150pt, keepaspectratio]{tmu_logo}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.13 ...egraphics[width=150pt, keepaspectratio]{tmu_
+                                                  logo}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 13.
+! Extra }, or forgotten $.
+l.13 ...hics[width=150pt, keepaspectratio]{tmu_logo}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.14 	
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (17.89238pt too wide) in paragraph at lines 13--14
+ keepaspectratio]tmu$[][]\OML/cmm/m/it/10 ogo$ 
+ []
+
+! Undefined control sequence.
+l.15 	\LARGE
+           \textbf{College of Computing Sciences and Information Technology\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...anker Mahaveer University\\Moradabad-244001}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (21.08pt too wide) in paragraph at lines 15--15
+ []\TU/lmr/bx/n/10 Col- 
+ []
+
+
+Overfull \hbox (19.48001pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 lege 
+ []
+
+
+Overfull \hbox (9.26pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 of 
+ []
+
+
+Overfull \hbox (27.47pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 Com- 
+ []
+
+
+Overfull \hbox (21.08pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 put- 
+ []
+
+
+Overfull \hbox (15.33pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 ing 
+ []
+
+
+Overfull \hbox (18.52pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 Sci- 
+ []
+
+
+Overfull \hbox (26.58pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 ences 
+ []
+
+
+Overfull \hbox (18.37pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 and 
+ []
+
+
+Overfull \hbox (14.58pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 In- 
+ []
+
+
+Overfull \hbox (17.83pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 for- 
+ []
+
+
+Overfull \hbox (19.0pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 ma- 
+ []
+
+
+Overfull \hbox (19.8pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 tion 
+ []
+
+
+Overfull \hbox (27.31999pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 Tech- 
+ []
+
+
+Overfull \hbox (19.16pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 nol- 
+ []
+
+
+Overfull \hbox (17.57pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 ogy 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...anker Mahaveer University\\Moradabad-244001}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (60.92001pt too wide) in paragraph at lines 15--15
+ []\TU/lmr/bx/n/10 Teerthanker 
+ []
+
+
+Overfull \hbox (20.34pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 Ma- 
+ []
+
+
+Overfull \hbox (32.69pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 haveer 
+ []
+
+
+Overfull \hbox (22.26001pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 Uni- 
+ []
+
+
+Overfull \hbox (19.59001pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 ver- 
+ []
+
+
+Overfull \hbox (17.95pt too wide) in paragraph at lines 15--15
+ \TU/lmr/bx/n/10 sity 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...anker Mahaveer University\\Moradabad-244001}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (61.18pt too wide) in paragraph at lines 15--17
+ []\TU/lmr/bx/n/10 Moradabad- 
+ []
+
+
+Overfull \hbox (34.5pt too wide) in paragraph at lines 15--17
+ \TU/lmr/bx/n/10 244001 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 	\textbf{Session: 2023-24}
+                             
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.03pt too wide) in paragraph at lines 18--20
+ []\TU/lmr/bx/n/10 Ses- 
+ []
+
+
+Overfull \hbox (23.06pt too wide) in paragraph at lines 18--20
+ \TU/lmr/bx/n/10 sion: 
+ []
+
+
+Overfull \hbox (26.83pt too wide) in paragraph at lines 18--20
+ \TU/lmr/bx/n/10 2023- 
+ []
+
+
+Overfull \hbox (11.5pt too wide) in paragraph at lines 18--20
+ \TU/lmr/bx/n/10 24 
+ []
+
+
+! LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 	\begin{tabularx}
+                    {\textwidth}{MMM}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+}
+l.21 	\begin{tabularx}{\textwidth}
+                                {MMM}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+}
+l.21 	\begin{tabularx}{\textwidth}
+                                {MMM}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 	\begin{tabularx}{\textwidth}{M
+                                  MM}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Misplaced alignment tab character &.
+l.22 		\textbf{Guided By:} &
+                           & \textbf{Submitted By:}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.22 		\textbf{Guided By:} & &
+                             \textbf{Submitted By:}\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (36.67pt too wide) in paragraph at lines 21--22
+ \TU/lmr/bx/n/10 Guided 
+ []
+
+
+Overfull \hbox (17.44pt too wide) in paragraph at lines 21--22
+ \TU/lmr/bx/n/10 By: 
+ []
+
+
+Overfull \hbox (23.0pt too wide) in paragraph at lines 21--22
+ \TU/lmr/bx/n/10 Sub- 
+ []
+
+
+Overfull \hbox (21.07pt too wide) in paragraph at lines 21--22
+ \TU/lmr/bx/n/10 mit- 
+ []
+
+
+Overfull \hbox (16.13pt too wide) in paragraph at lines 21--22
+ \TU/lmr/bx/n/10 ted 
+ []
+
+
+Overfull \hbox (17.44pt too wide) in paragraph at lines 21--22
+ \TU/lmr/bx/n/10 By: 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 		M
+      s. Sukrati Jain & & Mohit Singh\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Misplaced alignment tab character &.
+l.23 		Ms. Sukrati Jain &
+                        & Mohit Singh\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.23 		Ms. Sukrati Jain & &
+                          Mohit Singh\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 		M
+      r. Vikas Deswal & & (TCA2212005)\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Misplaced alignment tab character &.
+l.24 		Mr. Vikas Deswal &
+                        & (TCA2212005)\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.24 		Mr. Vikas Deswal & &
+                          (TCA2212005)\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+<recently read> &
+ 
+l.25 		&
+       & M.Tech (CSE) III Sem\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.25 		& &
+         M.Tech (CSE) III Sem\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 		& & M
+          .Tech (CSE) III Sem\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 	\end{tabularx}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \end{titlepage}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.27 \end{titlepage}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \clearpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{C:/Users/mohit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+Missing character: There is no [ (U+005B) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no d (U+0064) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no = (U+003D) in font nullfont!
+Missing character: There is no 1 (U+0031) in font nullfont!
+Missing character: There is no 5 (U+0035) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no , (U+002C) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no p (U+0070) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no ] (U+005D) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no m (U+006D) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no M (U+004D) in font nullfont!
+Missing character: There is no M (U+004D) in font nullfont!
+Missing character: There is no M (U+004D) in font nullfont!
+Missing character: There is no M (U+004D) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no S (U+0053) in font nullfont!
+Missing character: There is no u (U+0075) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no J (U+004A) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no M (U+004D) in font nullfont!
+Missing character: There is no o (U+006F) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no t (U+0074) in font nullfont!
+Missing character: There is no S (U+0053) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no n (U+006E) in font nullfont!
+Missing character: There is no g (U+0067) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no M (U+004D) in font nullfont!
+Missing character: There is no r (U+0072) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no V (U+0056) in font nullfont!
+Missing character: There is no i (U+0069) in font nullfont!
+Missing character: There is no k (U+006B) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no D (U+0044) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no s (U+0073) in font nullfont!
+Missing character: There is no w (U+0077) in font nullfont!
+Missing character: There is no a (U+0061) in font nullfont!
+Missing character: There is no l (U+006C) in font nullfont!
+Missing character: There is no ( (U+0028) in font nullfont!
+Missing character: There is no T (U+0054) in font nullfont!
+Missing character: There is no C (U+0043) in font nullfont!
+Missing character: There is no A (U+0041) in font nullfont!
+Missing character: There is no 2 (U+0032) in font nullfont!
+Missing character: There is no 2 (U+0032) in font nullfont!
+Missing character: There is no 1 (U+0031) in font nullfont!
+Missing character: There is no 2 (U+0032) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 0 (U+0030) in font nullfont!
+Missing character: There is no 5 (U+0035) in font nullfont!
+Missing character: There is no ) (U+0029) in font nullfont!
+Missing character: There is no M (U+004D) in font nullfont!
+Missing character: There is no . (U+002E) in font nullfont!
+Missing character: There is no T (U+0054) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no c (U+0063) in font nullfont!
+Missing character: There is no h (U+0068) in font nullfont!
+Missing character: There is no ( (U+0028) in font nullfont!
+Missing character: There is no C (U+0043) in font nullfont!
+Missing character: There is no S (U+0053) in font nullfont!
+Missing character: There is no E (U+0045) in font nullfont!
+Missing character: There is no ) (U+0029) in font nullfont!
+Missing character: There is no I (U+0049) in font nullfont!
+Missing character: There is no I (U+0049) in font nullfont!
+Missing character: There is no I (U+0049) in font nullfont!
+Missing character: There is no S (U+0053) in font nullfont!
+Missing character: There is no e (U+0065) in font nullfont!
+Missing character: There is no m (U+006D) in font nullfont!
+])
+! Emergency stop.
+<*> FrontPage.tex
+              
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 33 strings out of 476553
+ 100000,1977958 words of node,token memory allocated 308 words of node memory still in use:
+   1 hlist, 1 dir, 3 kern, 1 glyph, 2 attribute, 39 glue_spec, 2 attribute_list,
+ 1 write nodes
+   avail lists: 2:101,3:120,4:5,5:65,6:24,7:1544,8:5,9:226,10:4,11:78
+ 22140 multiletter control sequences out of 65536+600000
+ 28 fonts using 1740119 bytes
+ 23i,5n,22p,184b,143s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

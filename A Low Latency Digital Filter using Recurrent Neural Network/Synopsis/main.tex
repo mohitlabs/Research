@@ -1,0 +1,62 @@
+\documentclass[12pt, a4paper, twoside]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amssymb}
+\usepackage{times}
+\usepackage{tabularx}
+\newcolumntype{M}{>{\centering\arraybackslash}X}
+\usepackage[hidelinks]{hyperref}
+\usepackage{cite}
+\usepackage{graphicx}
+\graphicspath{ {assets/} }
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\newcommand{\Title}[1]{{\LARGE \centering \hrulefill\\ \textbf{#1}\\ \hrulefill}}
+\date{}
+\begin{document}
+	\pagestyle{empty}
+	\input{FrontPage}
+	\pagenumbering{roman}
+	\section*{\centering \LARGE \underline{Certificate}}
+	\addcontentsline{toc}{section}{Certificate}
+	\vspace{1\baselineskip}
+	\input{Certificate}
+	\section*{\centering \LARGE \underline{Acknowledgement}}
+	\addcontentsline{toc}{section}{Acknowledgement}
+	\vspace{1\baselineskip}
+	\input{Acknowledgements}
+	\newpage
+	\tableofcontents
+	\newpage
+	\pagestyle{plain}
+	\pagenumbering{arabic}
+	\Title{A Low Latency Digital Filter using Recurrent Neural Network}
+	\section{Introduction}
+	\input{Introduction}
+	\section{Problem Statement}
+	Traditional digital filter design lacks adaptability to dynamic signals which will introduce the latency problem. The potential benefits and limitations of integrating Recurrent Neural Networks (RNNs) into digital filters remain unclear, creating a research gap that needs exploration.
+	\subsection{Literature Survey}
+	\input{ProblemStatement/LiteratureSurvey}
+	\subsection{Hypothesis Formulation}
+	\input{ProblemStatement/HypothesisFormulation}
+	\section{Research Gap}
+	\input{ResearchGap}
+	\section{Objective}
+	\input{Objective}
+	\section{Research Methodology}
+	\input{Methodology}
+	\section{Proposed Work}
+	\input{ProposedWork}
+	\section{Conclusion \& Future Scope}
+	\input{Conclusion}
+	\addcontentsline{toc}{section}{References}
+	\hrule
+	\bibliography{Citations}
+	\bibliographystyle{ieeetr}
+	\hrule
+	\section*{Appendix}
+	\addcontentsline{toc}{section}{Appendix}
+	\appendix
+	\input{Appendix}
+\end{document}

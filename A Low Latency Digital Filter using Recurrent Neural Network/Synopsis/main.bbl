@@ -1,0 +1,91 @@
+\begin{thebibliography}{10}
+
+\bibitem{article1}
+K.~Hossain, R.~Ahmed, A.~Haque, and M.~Rahman,
+  ``\href{http://dx.doi.org/10.21275/SR21221133619}{A Review of Digital FIR
+  Filter Design in Communication Systems},'' {\em International Journal of
+  Science and Research (IJSR)}, vol.~10, p.~09, 03 2021.
+
+\bibitem{202305.0334}
+R.~Hinojosa-Meza, M.~M. Rivera, P.~Vacas-Jacques, N.~Escalante-Garcia, J.~A.
+  Dena-Aguilar, A.~B. Sanchez, and E.~Olvera-Gonzalez,
+  ``\href{https://doi.org/10.20944/preprints202305.0334.v1}{Comparative
+  Analysis of RNN Versus IIR Digital Filtering to Optimize Resilience to
+  Dynamic Perturbations in pH Sensing for Vertical Farming},'' {\em Preprints},
+  May 2023.
+
+\bibitem{rg1}
+D.~Kumar, ``\href{http://dx.doi.org/10.13140/RG.2.1.4856.3605}{Comparison of
+  Different Types of IIR Filters},'' 04 2016.
+
+\bibitem{rg2}
+R.~Pal, ``\href{http://dx.doi.org/10.1109/ICAC3.2017.8318772}{Comparison of the
+  design of FIR and IIR filters for a given specification and removal of phase
+  distortion from IIR filters},'' 12 2017.
+
+\bibitem{rg3}
+S.~Zargar, ``\href{http://dx.doi.org/10.13140/RG.2.2.36370.99522}{Introduction
+  to Sequence Learning Models: RNN, LSTM, GRU},'' 04 2021.
+
+\bibitem{en15207553}
+A.~Ali, A.~U. Rehman, A.~Almogren, E.~T. Eldin, and M.~Kaleem,
+  ``\href{https://www.mdpi.com/1996-1073/15/20/7553}{Application of Deep
+  Learning Gated Recurrent Unit in Hybrid Shunt Active Power Filter for Power
+  Quality Enhancement},'' {\em Energies}, vol.~15, no.~20, 2022.
+
+\bibitem{sherstinsky2020fundamentals}
+A.~Sherstinsky, ``\href{https://arxiv.org/abs/1808.03314}{Fundamentals of
+  recurrent neural network (RNN) and long short-term memory (LSTM) network},''
+  {\em Physica D: Nonlinear Phenomena}, vol.~404, p.~132306, 2020.
+
+\bibitem{app13031476}
+M.~Ashraf, F.~Abid, I.~U. Din, J.~Rasheed, M.~Yesiltepe, S.~F. Yeo, and M.~T.
+  Ersoy, ``\href{https://doi.org/10.3390/app13031476}{A Hybrid CNN and RNN
+  Variant Model for Music Classification},'' {\em Applied Sciences}, vol.~13,
+  no.~3, 2023.
+
+\bibitem{9258906}
+G.~Bouallegue, R.~Djemal, S.~A. Alshebeili, and H.~Aldhalaan,
+  ``\href{https://ieeexplore.ieee.org/abstract/document/9258906/}{A Dynamic
+  Filtering DF-RNN Deep-Learning-Based Approach for EEG-Based Neurological
+  Disorders Diagnosis},'' {\em IEEE Access}, vol.~8, pp.~206992--207007, 2020.
+
+\bibitem{8618351}
+S.~Shahtalebi, S.~F. Atashzar, R.~V. Patel, and A.~Mohammadi,
+  ``\href{https://doi.org/10.1109/LRA.2019.2894005}{HMFP-DBRNN: Real-Time Hand
+  Motion Filtering and Prediction via Deep Bidirectional RNN},'' {\em IEEE
+  Robotics and Automation Letters}, vol.~4, no.~2, pp.~1061--1068, 2019.
+
+\bibitem{stefanova2004time}
+S.~Stefanova,
+  ``\href{http://ecad.tu-sofia.bg/et/2004/Papers/Circuits%20and%20Systems/Paper-S_Stefanova.pdf}{Time
+  Domain Recursive Digital Filter Modeling Based on Recurrent Neural Network
+  Training},'' in {\em 13-th International Scientific and Applied Science
+  Conference “ELECTRONICS ET}, pp.~22--24, 2004.
+
+\bibitem{595494}
+J.~Ortiz-Fuentes and M.~Forcada,
+  ``\href{https://doi.org/10.1109/ICASSP.1997.595494}{A comparison between
+  recurrent neural network architectures for digital equalization},'' in {\em
+  1997 IEEE International Conference on Acoustics, Speech, and Signal
+  Processing}, vol.~4, pp.~3281--3284 vol.4, 1997.
+
+\bibitem{DigitalSignalProcessing}
+A.~Antoniou, {\em
+  \href{https://fmipa.umri.ac.id/wp-content/uploads/2016/03/Andreas-Intoniou-Digital-signal-processing.9780071454247.31527.pdf}{Digital
+  Signal Processing}}, vol.~1.
+\newblock McGraw-Hill Publications, 2006.
+
+\bibitem{AnalogandDigitalFilterDesign}
+S.~Winder, {\em
+  \href{http://dea.unsj.edu.ar/sredes/Biblioauxi/WINDER,%20S.%20(2002).%20Analog%20and%20Digital%20Filter%20Design%20(2nd%20ed.).pdf}{Analog
+  \& Digital Filter Design}}, vol.~2.
+\newblock Elsevier Science (USA), 2002.
+
+\bibitem{Goodfellow-et-al-2016}
+I.~Goodfellow, Y.~Bengio, and A.~Courville, {\em
+  \href{http://www.deeplearningbook.org}{Deep Learning}}.
+\newblock MIT Press, 2016.
+\newblock \url{http://www.deeplearningbook.org}.
+
+\end{thebibliography}

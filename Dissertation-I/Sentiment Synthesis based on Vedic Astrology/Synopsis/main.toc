@@ -1,0 +1,28 @@
+\selectlanguage *{english}
+\contentsline {section}{Acceptance Certificate}{2}{section*.1}%
+\contentsline {section}{Acknowledgements}{3}{section*.2}%
+\contentsline {section}{Abstract}{5}{section*.4}%
+\contentsline {section}{Keywords}{5}{section*.5}%
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}%
+\contentsline {section}{\numberline {2}Review of Literature}{6}{section.2}%
+\contentsline {section}{\numberline {3}Theoretical Framework}{18}{section.3}%
+\contentsline {subsection}{\numberline {3.1}What is Artificial Intelligence?}{18}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Limitations of AI}{19}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}What is Emotional Intelligence?}{19}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}What is Emotional Artificial Intelligence?}{20}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Why Truly Intelligent Machines Need Emotions?}{20}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Cognitive Psychology}{22}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Plutchik's Wheel of Emotions}{23}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Logical Thinking vs Intuitive Thinking}{25}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Convergence, Divergence \& Belief Systems}{25}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Emotion Dynamics}{27}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Butterfly Effect \& Chaos Theory}{28}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Long-Short Term Memory(LSTM)}{29}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12}Vedic Astrology}{30}{subsection.3.12}%
+\contentsline {subsubsection}{\numberline {3.12.1}Classification of Vedic Astrology}{30}{subsubsection.3.12.1}%
+\contentsline {subsubsection}{\numberline {3.12.2}Properties of Planets}{31}{subsubsection.3.12.2}%
+\contentsline {subsubsection}{\numberline {3.12.3}Dashas \& Transits}{32}{subsubsection.3.12.3}%
+\contentsline {section}{\numberline {4}Conclusion \& Outlook}{33}{section.4}%
+\contentsline {section}{Appendix}{36}{section*.7}%
+\contentsline {section}{List of Figures}{36}{section*.8}%
+\contentsline {section}{List of Tables}{36}{section*.9}%
