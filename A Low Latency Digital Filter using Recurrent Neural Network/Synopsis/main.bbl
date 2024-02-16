@@ -70,6 +70,33 @@ J.~Ortiz-Fuentes and M.~Forcada,
   1997 IEEE International Conference on Acoustics, Speech, and Signal
   Processing}, vol.~4, pp.~3281--3284 vol.4, 1997.
 
+\bibitem{10.1007/978-90-481-9151-2_38}
+S.~Stefanova, ``\href{https://doi.org/10.1007/978-90-481-9151-2_38}{One
+  Approach for Training of Recurrent Neural Network Model of IIR Digital
+  Filter},'' in {\em Technological Developments in Networking, Education and
+  Automation} (K.~Elleithy, T.~Sobh, M.~Iskander, V.~Kapila, M.~A. Karim, and
+  A.~Mahmood, eds.), (Dordrecht), pp.~219--224, Springer Netherlands, 2010.
+
+\bibitem{DBLP:journals/corr/abs-2005-09237}
+L.~Ma, H.~Huang, P.~Zhao, and T.~Su,
+  ``\href{https://doi.org/10.48550/arXiv.2005.09237}{Acoustic Echo Cancellation
+  by Combining Adaptive Digital Filter and Recurrent Neural Network},'' {\em
+  CoRR}, vol.~abs/2005.09237, 2020.
+
+\bibitem{6396136}
+S.~A. Skogstad, S.~Holm, and M.~Høvin,
+  ``\href{https://doi.org/10.1109/ICEngTechnol.2012.6396136}{Digital IIR
+  filters with minimal group delay for real-time applications},'' in {\em 2012
+  International Conference on Engineering and Technology (ICET)}, pp.~1--6,
+  2012.
+
+\bibitem{10.1007/978-90-481-3656-8_52}
+S.~S.A., ``\href{https://doi.org/10.1007/978-90-481-3656-8_52}{One Dimensional
+  IIR Digital Filter Modeling Based on Recurrent Neural Network},'' in {\em
+  Technological Developments in Education and Automation} (M.~Iskander,
+  V.~Kapila, and M.~A. Karim, eds.), (Dordrecht), pp.~281--286, Springer
+  Netherlands, 2010.
+
 \bibitem{DigitalSignalProcessing}
 A.~Antoniou, {\em
   \href{https://fmipa.umri.ac.id/wp-content/uploads/2016/03/Andreas-Intoniou-Digital-signal-processing.9780071454247.31527.pdf}{Digital
